@@ -925,6 +925,9 @@
 // English: Abell 81 is a planetary nebula in the constellation Cepheus.
 "47061D98-D049-9C14-5289-40F229798043" = "Abell 81 is a planetary nebula in the constellation Cepheus.";
 
+// English: Kepler-46, also known as KOI-872, is a K-type main sequence star about 2,591 light-years away in the constellation Lyra. It has three planets known, one superterran and two gas giants, all have compact orbits smaller than Mercury's
+"47392A36-5F8D-484F-A0D5-482E6B45EF0E" = "Kepler-46, also known as KOI-872, is a K-type main sequence star about 2,591 light-years away in the constellation Lyra. It has three planets known, one superterran and two gas giants, all have compact orbits smaller than Mercury's";
+
 // English: HD 28185 is a Sun-like star about 128.59 light-years away in the constellation Eridanus. In 2001, a planet the size of Jupiter is discovered orbiting within the star's habitable zone, which in 2006 led to speculations that it might hypothetically harbor habitable moons of its own\nNOTE: In real life, there are no known exomoons detected in this system, and therefore the two moons included on this addon are entirely fictional
 "474CED22-1661-B499-9218-46EAC7BBAC8A" = "HD 28185 is a Sun-like star about 128.59 light-years away in the constellation Eridanus. In 2001, a planet the size of Jupiter is discovered orbiting within the star's habitable zone, which in 2006 led to speculations that it might hypothetically harbor habitable moons of its own\nNOTE: In real life, there are no known exomoons detected in this system, and therefore the two moons included on this addon are entirely fictional";
 
@@ -1903,6 +1906,9 @@
 // English: NGTS-10 is a binary star system of two K-type main sequence stars about 1,059 light-years away in the constellation Lepus. One of those stars (component A) has a super-Jovian planet that is so close from its star that tidal forces have stretched the planet into a rugby-shaped world, where it completes an orbit once every 18.4 hours at a distance of only 1.89 million km from its host
 "94649845-CFF8-4A10-84DC-9FBB1FB49C12" = "NGTS-10 is a binary star system of two K-type main sequence stars about 1,059 light-years away in the constellation Lepus. One of those stars (component A) has a super-Jovian planet that is so close from its star that tidal forces have stretched the planet into a rugby-shaped world, where it completes an orbit once every 18.4 hours at a distance of only 1.89 million km from its host";
 
+// English: Kepler-111, also known as KOI-139, is an F-type main sequence star about 2,185 light-years away in the constellation Cygnus. A superterran and a small gas giant planet were discovered around this star
+"949628AB-AA39-4D34-9A0A-327B0885D8D7" = "Kepler-111, also known as KOI-139, is an F-type main sequence star about 2,185 light-years away in the constellation Cygnus. A superterran and a small gas giant planet were discovered around this star";
+
 // English: Dynamic add-on testing 
 "94C88086-0F67-F172-8C14-957BEB20846D" = "Dynamic add-on testing ";
 
@@ -2389,6 +2395,9 @@
 // English: Lunar Prospector was a NASA/Ames spacecraft that orbited the Moon for a year (1998-1999). It measured the surface composition and gravity fields of the Moon from a polar orbit around 100 km in altitude, consequently discovering the existence of water ice on the permanently shadowed craters of the lunar poles. As it deliberately crashed onto the Moon at the end of its mission in 1999-Jul-31, it carried along with it are the ashes of the late Dr. Eugene Shoemaker.
 "B99BC6E7-A035-6BA2-CA65-B7F9DA2BEDD1" = "Lunar Prospector was a NASA/Ames spacecraft that orbited the Moon for a year (1998-1999). It measured the surface composition and gravity fields of the Moon from a polar orbit around 100 km in altitude, consequently discovering the existence of water ice on the permanently shadowed craters of the lunar poles. As it deliberately crashed onto the Moon at the end of its mission in 1999-Jul-31, it carried along with it are the ashes of the late Dr. Eugene Shoemaker.";
 
+// English: KMT-2020-BLG-0414L is a red dwarf star accompanied by a brown dwarf about 3,653 light-years away in the constellation Sagittarius. A cold rocky planet slightly larger than Earth was found orbiting within 1.6 AU from its host star. If it has an atmosphere, this planet is cold enough for oceans of liquid methane to form, much like on Saturn's largest moon, Titan
+"B9AB5162-F114-4F5E-81A5-6D26E51A1948" = "KMT-2020-BLG-0414L is a red dwarf star accompanied by a brown dwarf about 3,653 light-years away in the constellation Sagittarius. A cold rocky planet slightly larger than Earth was found orbiting within 1.6 AU from its host star. If it has an atmosphere, this planet is cold enough for oceans of liquid methane to form, much like on Saturn's largest moon, Titan";
+
 // English: (153591) 2001 SN263 is a near-Earth C-type asteroid. It was discovered on September 20, 2001 by the LINEAR project. 2001 SN263 has two moons around it, which were discovered in 2008. It can also be recognized as a trinary asteroid system. It is the target of the ASTER mission of the Brazilian Space Agency, with a proposed launch for 2025.
 "B9D623F9-2043-5502-3601-6356EF013B10" = "(153591) 2001 SN263 is a near-Earth C-type asteroid. It was discovered on September 20, 2001 by the LINEAR project. 2001 SN263 has two moons around it, which were discovered in 2008. It can also be recognized as a trinary asteroid system. It is the target of the ASTER mission of the Brazilian Space Agency, with a proposed launch for 2025.";
 
@@ -2769,6 +2778,9 @@
 
 // English: OGLE-2005-BLG-390Lb (nicknamed Hoth) is a super-Earth orbiting OGLE-2005-BLG-390L, a star 21,200 light-years from Earth near the center of the Milky Way, making it one of the most distant planets known. It is an icy exoplanet, far from the habitable zone of the star in which it orbits.
 "D5B4F486-296E-5DFF-DDA0-9150A885B1F5" = "OGLE-2005-BLG-390Lb (nicknamed Hoth) is a super-Earth orbiting OGLE-2005-BLG-390L, a star 21,200 light-years from Earth near the center of the Milky Way, making it one of the most distant planets known. It is an icy exoplanet, far from the habitable zone of the star in which it orbits.";
+
+// English: TOI-2109 is an F-type subgiant star about 861 light-years away in the constellation Hercules. A massive gas giant about five times the mass of Jupiter has an orbital period of 16.14 hours, which has one of the shortest-periods of any known gas giant to date
+"D5D899F4-366F-4AAA-834E-D5AB89E74242" = "TOI-2109 is an F-type subgiant star about 861 light-years away in the constellation Hercules. A massive gas giant about five times the mass of Jupiter has an orbital period of 16.14 hours, which has one of the shortest-periods of any known gas giant to date";
 
 // English: The Great Daylight meteor, or Grand Teton meteor, is a very bright Earth-grazing fireball that narrowly missed impact with Earth about 57 km above Jackson Lake, Wyoming, USA on 1972-Aug-10. Analysis of its appearance and trajectory suggests that the object was 3-14 m in diameter, later reduced to 2-12 m post-encounter. It remains in orbit around the Sun to this day.
 "D62B8360-AE0C-DFCE-3736-27FFC834014D" = "The Great Daylight meteor, or Grand Teton meteor, is a very bright Earth-grazing fireball that narrowly missed impact with Earth about 57 km above Jackson Lake, Wyoming, USA on 1972-Aug-10. Analysis of its appearance and trajectory suggests that the object was 3-14 m in diameter, later reduced to 2-12 m post-encounter. It remains in orbit around the Sun to this day.";
