@@ -84,14 +84,15 @@ public class Parser {
 
             var singleStrings = [String]()
             let stringsPath = (directory as NSString).appendingPathComponent("Localizable.strings")
-            for (key, value) in strings.sorted(by: { $0.key < $1.key }) {
-                guard let english = englishStrings[key] else {
-                    throw ParserError.englishResourceMissing
-                }
-
+            for (key, english) in englishStrings.sorted(by: { $0.key < $1.key }) {
+                let string: String
                 let escapedEnglish = english.replacingOccurrences(of: "\n", with: "\\n").replacingOccurrences(of: "\"", with: "\\\"")
-                let escapedValue = value.replacingOccurrences(of: "\n", with: "\\n").replacingOccurrences(of: "\"", with: "\\\"")
-                let string = "// English: \(escapedEnglish)\n\"\(key)\" = \"\(escapedValue)\";"
+                if let value = strings[key] {
+                    let escapedValue = value.replacingOccurrences(of: "\n", with: "\\n").replacingOccurrences(of: "\"", with: "\\\"")
+                    string = "// English: \(escapedEnglish)\n\"\(key)\" = \"\(escapedValue)\";"
+                } else {
+                    string = "// English: \(escapedEnglish)\n//\"\(key)\" = \"\(escapedEnglish)\";"
+                }
                 singleStrings.append(string)
             }
             do {
