@@ -154,7 +154,7 @@ public class CloudKitHandler {
                     throw CloudKitHandlerError.englishResourceMissing
                 }
                 var result = ["en": english]
-                if let others = record[mainKey] as? String {
+                if let others = record[mainKey] as? String, !others.isEmpty {
                     guard let json = try? JSONDecoder().decode([String: String].self, from: others.data(using: .utf8)!) else {
                         throw CloudKitHandlerError.json
                     }
@@ -164,7 +164,7 @@ public class CloudKitHandler {
                 }
                 results[record.recordID.recordName] = result
             } else {
-                guard let others = record[mainKey] as? String else {
+                guard let others = record[mainKey] as? String, !others.isEmpty else {
                     continue
                 }
                 guard let json = try? JSONDecoder().decode([String: String].self, from: others.data(using: .utf8)!) else {
