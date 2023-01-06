@@ -1,26 +1,26 @@
 // English: Exoplanets: O
-//"00AF3056-5512-42F3-A6CC-3B66CF6203EC" = "Exoplanets: O";
+"00AF3056-5512-42F3-A6CC-3B66CF6203EC" = "系外行星：O";
 
 // English: Exoplanets: K
-//"0EEF518F-C9C8-E27D-AA9C-8747FF2094B7" = "Exoplanets: K";
+"0EEF518F-C9C8-E27D-AA9C-8747FF2094B7" = "系外行星：K";
 
 // English: Solar System: Uranus
 "11A2C197-E67C-76A3-EAA8-1949A88811E9" = "太阳系：天王星";
 
 // English: Fictional: Babylon 5
-//"1F8B3C2C-AA6B-FC61-7AC0-12C0F75F7691" = "Fictional: Babylon 5";
+"1F8B3C2C-AA6B-FC61-7AC0-12C0F75F7691" = "虚构：巴比伦五号";
 
 // English: Fictional: 2001: A Space Odyssey
-//"208B64C6-5396-FF0B-7BAC-9C0EC38415AF" = "Fictional: 2001: A Space Odyssey";
+"208B64C6-5396-FF0B-7BAC-9C0EC38415AF" = "虚构：2001太空漫游";
 
 // English: Spacecraft: Asteroids, Comets and TNOs
 "31CD307B-BE26-F0FE-7A12-DCA429A50F6C" = "航天器：小行星、彗星和海王星外天体";
 
 // English: Exoplanets: G
-//"340AA62C-1E60-40B2-8E86-9F04AD5153AE" = "Exoplanets: G";
+"340AA62C-1E60-40B2-8E86-9F04AD5153AE" = "系外行星：G";
 
 // English: Exoplanets: P
-//"35D8CF1B-95AD-439C-BED9-7F64E704F606" = "Exoplanets: P";
+"35D8CF1B-95AD-439C-BED9-7F64E704F606" = "系外行星：P";
 
 // English: Solar System: Jupiter
 "3D88462A-9D49-0816-CF79-B8E1A14CAE0A" = "太阳系：木星";
@@ -29,7 +29,7 @@
 "413228EC-051A-D8EE-5E6D-F883A4953F26" = "航天器：火星";
 
 // English: Fictional: Demos
-//"44F231CF-D5E2-5815-19AF-110660E76778" = "Fictional: Demos";
+"44F231CF-D5E2-5815-19AF-110660E76778" = "虚构：演示";
 
 // English: Spacecraft: Crewed/Resupply Missions
 "4C984847-1232-385B-793B-0E0700ED883E" = "航天器：载人航天";
@@ -38,31 +38,31 @@
 "5A6E1D18-F280-CB5D-5622-C925B6E9B6E1" = "太阳系：其他";
 
 // English: Exoplanets: X, Y and Z
-//"5D824B5F-B5B5-4EE9-A6E2-6C331B5BCD2B" = "Exoplanets: X, Y and Z";
+"5D824B5F-B5B5-4EE9-A6E2-6C331B5BCD2B" = "系外行星：X, Y, Z";
 
 // English: Solar System: Venus
 "638E2A3D-7C1D-DAA5-3CFE-4E9B540D775A" = "太阳系：金星";
 
 // English: Exoplanets: T, U and V
-//"6455338A-F2B9-5FB3-4CB4-5A00A62C7CEB" = "Exoplanets: T, U and V";
+"6455338A-F2B9-5FB3-4CB4-5A00A62C7CEB" = "系外行星：T, U, V";
 
 // English: Fictional: Orion's Arm
-//"660FAF24-654D-DD65-A97B-21C42D57B1C5" = "Fictional: Orion's Arm";
+"660FAF24-654D-DD65-A97B-21C42D57B1C5" = "虚构：猎户臂";
 
 // English: Exoplanets: W
-//"6F6AAA53-C204-4856-963C-E720962FDB3D" = "Exoplanets: W";
+"6F6AAA53-C204-4856-963C-E720962FDB3D" = "系外行星：W";
 
 // English: Fictional: Planets & Systems
-//"79907B53-C287-F6BC-01EB-B7D9B8A02161" = "Fictional: Planets & Systems";
+"79907B53-C287-F6BC-01EB-B7D9B8A02161" = "虚构：行星和系统";
 
 // English: Exoplanets: L
-//"7A498EF6-BA5B-4734-A6D6-3041DE91B01A" = "Exoplanets: L";
+"7A498EF6-BA5B-4734-A6D6-3041DE91B01A" = "系外行星：L";
 
 // English: Fictional: Star Wars
-//"8237336C-8075-19CF-C43E-61EC0E3E86DF" = "Fictional: Star Wars";
+"8237336C-8075-19CF-C43E-61EC0E3E86DF" = "虚构：星球大战";
 
 // English: Asteroids: Jupiter Trojans
-//"8516FF81-C4EF-4F8B-91BC-44509E9E3970" = "Asteroids: Jupiter Trojans";
+"8516FF81-C4EF-4F8B-91BC-44509E9E3970" = "小行星: 特洛伊小行星";
 
 // English: Spacecraft: Conceptual
 "8548C3A2-4D2F-B2F1-6F4B-B1B74C65A462" = "航天器：概念性";
@@ -80,7 +80,7 @@
 "90EF148E-E45C-1F1E-0323-E2C324337DB3" = "航天器：技术演示";
 
 // English: Fictional: Star Trek
-//"921B4105-3E3F-C282-28C9-D40BCF6E7271" = "Fictional: Star Trek";
+"921B4105-3E3F-C282-28C9-D40BCF6E7271" = "虚构：星际迷航";
 
 // English: Spacecraft: Mercury and Venus
 "94DF97E6-83F4-5EE0-0039-3AB8EEE71C78" = "航天器：水星和金星";
@@ -92,25 +92,25 @@
 "9D674E32-9DA3-913E-2EB8-A06862A33604" = "航天器：外太阳系";
 
 // English: Asteroids: Main Belt
-//"9ED44B8D-5FD9-4F9B-8B31-99F13FE54367" = "Asteroids: Main Belt";
+"9ED44B8D-5FD9-4F9B-8B31-99F13FE54367" = "小行星: 主小行星带";
 
 // English: Exoplanets: H, I and J
-//"B15857BC-ADB9-4E42-87F6-465DA2D2D881" = "Exoplanets: H, I and J";
+"B15857BC-ADB9-4E42-87F6-465DA2D2D881" = "系外行星：H, I, J";
 
 // English: Asteroids: Others
 "B4C85857-9E1E-427F-B307-95F98C6C1579" = "小行星：其他";
 
 // English: Fictional: Crafts & Stations
-//"B6F9835B-4A2F-AFFE-29BF-9B0A857933CF" = "Fictional: Crafts & Stations";
+"B6F9835B-4A2F-AFFE-29BF-9B0A857933CF" = "虚构：航天器和空间站";
 
 // English: Exoplanets: 0 to 9
-//"B9B2FE1F-15BD-894B-EDA6-4BB12035625A" = "Exoplanets: 0 to 9";
+"B9B2FE1F-15BD-894B-EDA6-4BB12035625A" = "系外行星：0 到 9";
 
 // English: Exoplanets: Rogue Planets
-//"BAE0F719-A734-400B-B19D-D2626B3D186B" = "Exoplanets: Rogue Planets";
+"BAE0F719-A734-400B-B19D-D2626B3D186B" = "系外行星：星际行星";
 
 // English: Exoplanets: Q, R and S
-//"BFD9A6FE-6799-467A-AFE0-7152E5AA2C8A" = "Exoplanets: Q, R and S";
+"BFD9A6FE-6799-467A-AFE0-7152E5AA2C8A" = "系外行星：Q, R, S";
 
 // English: Solar System: Earth and the Moon
 "BFFEC5E4-B6C3-BABA-C56B-D756D5DA08FE" = "太阳系：地球与月球";
@@ -125,25 +125,25 @@
 "C4E8882D-ACC5-C27C-05EB-440F6994D7EA" = "月球";
 
 // English: Exoplanets: M and N
-//"C5681CE6-249A-4210-8FCB-490EB953B175" = "Exoplanets: M and N";
+"C5681CE6-249A-4210-8FCB-490EB953B175" = "系外行星：M, N";
 
 // English: Spacecraft: Sun
 "C864BC9C-0DDE-B046-2ACA-996D4E870329" = "航天器：太阳";
 
 // English: Exoplanets: A, B and C
-//"CA784631-C85E-42AF-840C-82DA22C449FF" = "Exoplanets: A, B and C";
+"CA784631-C85E-42AF-840C-82DA22C449FF" = "系外行星：A, B, C";
 
 // English: Asteroids: Earth Impactors
-//"D0D46DCA-E587-4884-86CB-BDD43483B111" = "Asteroids: Earth Impactors";
+"D0D46DCA-E587-4884-86CB-BDD43483B111" = "小行星：撞击地球的小行星";
 
 // English: Exoplanets: D, E and F
-//"DFD5BBCD-3A98-48AF-8E08-B2EC3FAA0AAE" = "Exoplanets: D, E and F";
+"DFD5BBCD-3A98-48AF-8E08-B2EC3FAA0AAE" = "系外行星：D, E, F";
 
 // English: Fictional: ArcBuilder Universe
-"E6E0C8D7-8F9E-EE24-1C54-D6F57B0EEF6F" = "虚构：ArcBuilder Universe";
+"E6E0C8D7-8F9E-EE24-1C54-D6F57B0EEF6F" = "虚构：ArcBuilder 宇宙";
 
 // English: Fictional: Stargate
-//"F3536B74-5564-4BD4-874A-95B26833D0C1" = "Fictional: Stargate";
+"F3536B74-5564-4BD4-874A-95B26833D0C1" = "虚构：星际之门";
 
 // English: Asteroids: Near-Earth Objects
 "FF1B03B8-4A0D-49D7-89AA-4DCF74FF95FB" = "小行星：近地天体";
