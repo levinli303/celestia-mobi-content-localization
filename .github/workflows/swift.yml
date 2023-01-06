@@ -31,7 +31,7 @@ jobs:
       env:
         CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
       run: |
-        .build/debug/SynchronizerApp categories ResourceCategory localizedName --english-key=name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        .build/debug/SynchronizerApp categories ResourceCategory localizedName --english-key name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
         git add categories
 
     - name: Commit
@@ -53,4 +53,4 @@ jobs:
         fi
         cp -r categories new-categories
         git reset --hard HEAD^
-        .build/debug/UploaderApp categories new-categories localizedName --english-key=name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        .build/debug/UploaderApp categories new-categories localizedName --english-key name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
