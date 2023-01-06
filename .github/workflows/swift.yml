@@ -84,6 +84,8 @@ jobs:
 
     - name: Upload (Category Names)
       if: github.event_name == 'push'
+      env:
+        CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
       run: |
         if [ "`git show -s --format='%an'`" == "runner" ]; then
           echo "Ignore runner commit"
@@ -95,6 +97,8 @@ jobs:
 
     - name: Upload (Category Fallback Names)
       if: github.event_name == 'push'
+      env:
+        CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
       run: |
         if [ "`git show -s --format='%an'`" == "runner" ]; then
           echo "Ignore runner commit"
@@ -106,6 +110,8 @@ jobs:
 
     - name: Upload (Category Descriptions)
       if: github.event_name == 'push'
+      env:
+        CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
       run: |
         if [ "`git show -s --format='%an'`" == "runner" ]; then
           echo "Ignore runner commit"
@@ -117,6 +123,8 @@ jobs:
 
     - name: Upload (Addon Names)
       if: github.event_name == 'push'
+      env:
+        CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
       run: |
         if [ "`git show -s --format='%an'`" == "runner" ]; then
           echo "Ignore runner commit"
@@ -128,6 +136,8 @@ jobs:
 
     - name: Upload (Addon Descriptions)
       if: github.event_name == 'push'
+      env:
+        CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
       run: |
         if [ "`git show -s --format='%an'`" == "runner" ]; then
           echo "Ignore runner commit"
