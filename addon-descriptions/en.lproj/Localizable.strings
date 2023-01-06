@@ -298,6 +298,9 @@
 // English: The Dumbbell Nebula (NGC 6853, Messier 27) is a planetary nebula in the constellation Vulpecula 1360 light-years away from Earth.
 "1913AE9D-EBF1-6DF3-116E-87C2CB22826F" = "The Dumbbell Nebula (NGC 6853, Messier 27) is a planetary nebula in the constellation Vulpecula 1360 light-years away from Earth.";
 
+// English: K2-10 is a Sun-like star only about 895.25 light-years away in the constellation Leo. A Neptune-sized planet was discovered orbiting at a distance of 0.17 AU from its host star, completing one circuit once every 12.09 days
+"195CB6C4-8255-4CCA-9554-04A1D232C30E" = "K2-10 is a Sun-like star only about 895.25 light-years away in the constellation Leo. A Neptune-sized planet was discovered orbiting at a distance of 0.17 AU from its host star, completing one circuit once every 12.09 days";
+
 // English: This addon adds Neptune's polar auroras.
 "19E04A47-9E75-9BED-2F85-F30CDA5549C9" = "This addon adds Neptune's polar auroras.";
 
@@ -874,6 +877,9 @@
 // English: This add-on adds over 77300 stars, 29 open clusters, and 38 globular clusters to the Large Magellanic Cloud. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.
 "42D26A52-CA95-D59C-06C6-16E653D1196B" = "This add-on adds over 77300 stars, 29 open clusters, and 38 globular clusters to the Large Magellanic Cloud. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.";
 
+// English: Kepler-28, also known as KOI-870, is a red dwarf star about 1,448 light-years away in the constellation Cygnus. Two hot neptunians in a compact 2:1 resonant orbits with each other were discovered just less than 0.1 AU from their host star
+"436B3112-B767-4B6A-91F0-4142AE40EE87" = "Kepler-28, also known as KOI-870, is a red dwarf star about 1,448 light-years away in the constellation Cygnus. Two hot neptunians in a compact 2:1 resonant orbits with each other were discovered just less than 0.1 AU from their host star";
+
 // English: This add-on adds a realistic, fully 3D model of the planetary nebula Abell 3. Abell 3 is poorly studied, but it is known to be roughly barrel-shaped. Therefore, the model is consistent with available data and astrophotographs.
 "4395B462-5695-DB17-5A27-896F640DB8B7" = "This add-on adds a realistic, fully 3D model of the planetary nebula Abell 3. Abell 3 is poorly studied, but it is known to be roughly barrel-shaped. Therefore, the model is consistent with available data and astrophotographs.";
 
@@ -1209,6 +1215,9 @@
 
 // English: The Van Allen Probes (VAP), formerly known as the Radiation Belt Storm Probes (RBSP), were two NASA robotic spacecraft that were used to study the Van Allen radiation belts that surround Earth. Understanding the radiation belt environment and its variability has practical applications in the areas of spacecraft operations, spacecraft system design, mission planning and astronaut safety. The probes were launched on a single Atlas V rocket on 2012-Aug-30 and operated for seven years. Both spacecraft were deactivated in 2019 when they ran out of fuel and are are expected to deorbit sometime in the 2030s.
 "5F6DB3D8-E801-2540-08EB-3A35A6A1851D" = "The Van Allen Probes (VAP), formerly known as the Radiation Belt Storm Probes (RBSP), were two NASA robotic spacecraft that were used to study the Van Allen radiation belts that surround Earth. Understanding the radiation belt environment and its variability has practical applications in the areas of spacecraft operations, spacecraft system design, mission planning and astronaut safety. The probes were launched on a single Atlas V rocket on 2012-Aug-30 and operated for seven years. Both spacecraft were deactivated in 2019 when they ran out of fuel and are are expected to deorbit sometime in the 2030s.";
+
+// English: Kepler-130, also known as KOI-282, is a binary star system of a Sun-like star and a red dwarf star about 1,042 light-years away in the constellation Lyra. A total of three planets (two terrans and one neptunian) were discovered orbiting the larger star in the system (component A)
+"5FCAB43C-3F29-4385-8462-57A540A96A48" = "Kepler-130, also known as KOI-282, is a binary star system of a Sun-like star and a red dwarf star about 1,042 light-years away in the constellation Lyra. A total of three planets (two terrans and one neptunian) were discovered orbiting the larger star in the system (component A)";
 
 // English: CAPSTONE is a lunar orbiter that will test and verify the calculated orbital stability planned for the Lunar Gateway space station. The spacecraft is a 12U CubeSat that will also test a navigation system that will measure its position relative to the Lunar Reconnaissance Orbiter (LRO) without relying on ground stations CAPSTONE
 "5FCD698C-D0F3-D451-8451-563A12225CEC" = "CAPSTONE is a lunar orbiter that will test and verify the calculated orbital stability planned for the Lunar Gateway space station. The spacecraft is a 12U CubeSat that will also test a navigation system that will measure its position relative to the Lunar Reconnaissance Orbiter (LRO) without relying on ground stations CAPSTONE";
@@ -2961,6 +2970,9 @@
 
 // English: This addon adds a 3D model for Saturn's moon Iapetus, based on data from the Cassini spacecraft.
 "E2826B02-E531-2818-4115-F7A4993D609B" = "This addon adds a 3D model for Saturn's moon Iapetus, based on data from the Cassini spacecraft.";
+
+// English: Gliese 176 is a nearby red dwarf star only about 30.9 light-years away in the constellation Taurus. Two planets, all neptunian, were discovered orbiting this star
+"E2AA314A-B5AB-49D7-95BB-B2331698D812" = "Gliese 176 is a nearby red dwarf star only about 30.9 light-years away in the constellation Taurus. Two planets, all neptunian, were discovered orbiting this star";
 
 // English: The Boeing X-37B is a small robotic spaceplane operated by the US Air Force Space Command (AFSPC), and later the US Space Force intended for flying classified military missions since 2010
 "E2BBC744-C70A-85D0-C3EF-DFD7D2AA4E35" = "The Boeing X-37B is a small robotic spaceplane operated by the US Air Force Space Command (AFSPC), and later the US Space Force intended for flying classified military missions since 2010";
