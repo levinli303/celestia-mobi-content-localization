@@ -31,18 +31,27 @@ jobs:
       env:
         CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
       run: |
-        rm -rf categories
-        .build/debug/SynchronizerApp categories ResourceCategory localizedName --english-key name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
-        git add categories
+        rm -rf category-titles
+        .build/debug/SynchronizerApp category-titles ResourceCategory localizedName --english-key name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git add category-titles
 
     - name: Synchronize (Category Fallback Names)
       if: github.event_name == 'schedule'
       env:
         CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
       run: |
-        rm -rf categories-fallback
-        .build/debug/SynchronizerApp categories-fallback ResourceCategory fallbackName --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
-        git add categories-fallback
+        rm -rf category-fallback-names
+        .build/debug/SynchronizerApp category-fallback-names ResourceCategory fallbackName --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git add category-fallback-names
+
+    - name: Synchronize (Category Descriptions)
+      if: github.event_name == 'schedule'
+      env:
+        CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
+      run: |
+        rm -rf category-descriptions
+        .build/debug/SynchronizerApp category-descriptions ResourceCategory localizedDescription --english-key description --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git add category-descriptions
 
     - name: Commit
       if: github.event_name == 'schedule'
@@ -61,9 +70,9 @@ jobs:
           echo "Ignore runner commit"
           exit 0
         fi
-        cp -r categories new-categories
+        cp -r category-titles new-category-titles
         git reset --hard HEAD^
-        .build/debug/UploaderApp categories new-categories localizedName --english-key name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        .build/debug/UploaderApp category-titles new-category-titles localizedName --english-key name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
 
     - name: Upload (Category Fallback Names)
       if: github.event_name == 'push'
@@ -72,6 +81,17 @@ jobs:
           echo "Ignore runner commit"
           exit 0
         fi
-        cp -r categories-fallback new-categories-fallback
+        cp -r category-fallback-names new-category-fallback-names
         git reset --hard HEAD^
-        .build/debug/UploaderApp categories-fallback new-categories-fallback fallbackName --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        .build/debug/UploaderApp category-fallback-names new-category-fallback-names fallbackName --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+
+    - name: Upload (Category Descriptions)
+      if: github.event_name == 'push'
+      run: |
+        if [ "`git show -s --format='%an'`" == "runner" ]; then
+          echo "Ignore runner commit"
+          exit 0
+        fi
+        cp -r category-descriptions new-category-descriptions
+        git reset --hard HEAD^
+        .build/debug/UploaderApp category-descriptions new-category-descriptions localizedDescription --english-key description --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
