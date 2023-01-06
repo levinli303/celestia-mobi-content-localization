@@ -84,7 +84,7 @@ public class Parser {
 
             var singleStrings = [String]()
             let stringsPath = (directory as NSString).appendingPathComponent("Localizable.strings")
-            for (key, value) in strings {
+            for (key, value) in strings.sorted(by: { $0.key < $1.key }) {
                 guard let english = englishStrings[key] else {
                     throw ParserError.englishResourceMissing
                 }
