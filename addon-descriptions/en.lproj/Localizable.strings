@@ -3022,6 +3022,9 @@
 // English: TOI-5153 is an F-type main sequence star about 1,272 light-years away in the constellation Lepus. It is orbited by a single Jupiter-sized planet that completes an orbit once every 19.37 days
 "ECDF24C3-B6B9-4DE6-9895-04A450D6568C" = "TOI-5153 is an F-type main sequence star about 1,272 light-years away in the constellation Lepus. It is orbited by a single Jupiter-sized planet that completes an orbit once every 19.37 days";
 
+// English: Kepler-102 is a K-type main-sequence star about 352.54 light-years away in the constellation Lyra. A total of five rocky planets (3 subterrans, 1 terran, and 1 superterran) were all found orbiting within 0.2 AU from their parent star, equivalent to half the average distance of Mercury to the Sun
+"ED1F3589-F710-4ECD-BD96-FE6F9E729B6E" = "Kepler-102 is a K-type main-sequence star about 352.54 light-years away in the constellation Lyra. A total of five rocky planets (3 subterrans, 1 terran, and 1 superterran) were all found orbiting within 0.2 AU from their parent star, equivalent to half the average distance of Mercury to the Sun";
+
 // English: (52760) 1998 ML14 is a near-Earth asteroid about 1 km in diameter. It was discovered on June 24, 1998 by the LINEAR project. Soon after its discovery, it was observed by the Arecibo and Goldstone observatories.
 "ED4F0CE8-E5F8-4DBC-AB52-7EE9BF7B0538" = "(52760) 1998 ML14 is a near-Earth asteroid about 1 km in diameter. It was discovered on June 24, 1998 by the LINEAR project. Soon after its discovery, it was observed by the Arecibo and Goldstone observatories.";
 
