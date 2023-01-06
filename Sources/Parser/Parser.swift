@@ -69,6 +69,9 @@ public class Parser {
     }
 
     public func writeStrings(_ stringsByLocale: [String: [String: String]], to path: String) throws {
+        guard let englishStrings = stringsByLocale["en"] else {
+            throw ParserError.englishResourceMissing
+        }
         for (locale, strings) in stringsByLocale {
             let directory = (path as NSString).appendingPathComponent("\(locale).lproj")
             do {
@@ -78,10 +81,19 @@ public class Parser {
             } catch {
                 throw ParserError.createDirectory
             }
+
+            var singleStrings = [String]()
             let stringsPath = (directory as NSString).appendingPathComponent("Localizable.strings")
-            let dictionary = strings as NSDictionary
+            for (key, value) in strings {
+                guard let english = englishStrings[key] else {
+                    throw ParserError.englishResourceMissing
+                }
+
+                let string = "// English: \(english)\n\"\(key.replacingOccurrences(of: "\"", with: "\\\""))\" = \"\(value.replacingOccurrences(of: "\"", with: "\\\""))\";"
+                singleStrings.append(string)
+            }
             do {
-                try dictionary.descriptionInStringsFileFormat.write(toFile: stringsPath, atomically: true, encoding: .utf8)
+                try singleStrings.joined(separator: "\n\n").write(toFile: stringsPath, atomically: true, encoding: .utf8)
             } catch {
                 throw ParserError.writeFile
             }
