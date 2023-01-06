@@ -92,8 +92,10 @@ jobs:
           exit 0
         fi
         cp -r category-titles new-category-titles
+        CURRENT_COMMIT=`git show -s --format='%H'`
         git reset --hard HEAD^
         .build/debug/UploaderApp category-titles new-category-titles localizedName --english-key name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git reset --hard $CURRENT_COMMIT
 
     - name: Upload (Category Fallback Names)
       if: github.event_name == 'push'
@@ -105,8 +107,10 @@ jobs:
           exit 0
         fi
         cp -r category-fallback-names new-category-fallback-names
+        CURRENT_COMMIT=`git show -s --format='%H'`
         git reset --hard HEAD^
         .build/debug/UploaderApp category-fallback-names new-category-fallback-names fallbackName --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git reset --hard $CURRENT_COMMIT
 
     - name: Upload (Category Descriptions)
       if: github.event_name == 'push'
@@ -118,8 +122,10 @@ jobs:
           exit 0
         fi
         cp -r category-descriptions new-category-descriptions
+        CURRENT_COMMIT=`git show -s --format='%H'`
         git reset --hard HEAD^
         .build/debug/UploaderApp category-descriptions new-category-descriptions localizedDescription --english-key description --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git reset --hard $CURRENT_COMMIT
 
     - name: Upload (Addon Names)
       if: github.event_name == 'push'
@@ -131,8 +137,10 @@ jobs:
           exit 0
         fi
         cp -r addon-titles new-addon-titles
+        CURRENT_COMMIT=`git show -s --format='%H'`
         git reset --hard HEAD^
         .build/debug/UploaderApp addon-titles new-addon-titles localizedName --english-key name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git reset --hard $CURRENT_COMMIT
 
     - name: Upload (Addon Descriptions)
       if: github.event_name == 'push'
@@ -144,5 +152,7 @@ jobs:
           exit 0
         fi
         cp -r addon-descriptions new-addon-descriptions
+        CURRENT_COMMIT=`git show -s --format='%H'`
         git reset --hard HEAD^
         .build/debug/UploaderApp addon-descriptions new-addon-descriptions localizedDescription --english-key description --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git reset --hard $CURRENT_COMMIT
