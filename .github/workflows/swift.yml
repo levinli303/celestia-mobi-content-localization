@@ -26,7 +26,7 @@ jobs:
     - name: Build
       run: swift build -v
     
-    - name: Synchronize
+    - name: Synchronize (Category Names)
       if: github.event_name == 'schedule'
       env:
         CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
@@ -34,6 +34,15 @@ jobs:
         rm -rf categories
         .build/debug/SynchronizerApp categories ResourceCategory localizedName --english-key name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
         git add categories
+
+    - name: Synchronize (Category Fallback Names)
+      if: github.event_name == 'schedule'
+      env:
+        CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
+      run: |
+        rm -rf categories-fallback
+        .build/debug/SynchronizerApp categories-fallback ResourceCategory fallbackName --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git add categories-fallback
 
     - name: Commit
       if: github.event_name == 'schedule'
@@ -45,7 +54,7 @@ jobs:
           git push
         fi
 
-    - name: Upload
+    - name: Upload (Category Names)
       if: github.event_name == 'push'
       run: |
         if [ "`git show -s --format='%an'`" == "runner" ]; then
@@ -55,3 +64,14 @@ jobs:
         cp -r categories new-categories
         git reset --hard HEAD^
         .build/debug/UploaderApp categories new-categories localizedName --english-key name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+
+    - name: Upload (Category Fallback Names)
+      if: github.event_name == 'push'
+      run: |
+        if [ "`git show -s --format='%an'`" == "runner" ]; then
+          echo "Ignore runner commit"
+          exit 0
+        fi
+        cp -r categories-fallback new-categories-fallback
+        git reset --hard HEAD^
+        .build/debug/UploaderApp categories-fallback new-categories-fallback fallbackName --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
