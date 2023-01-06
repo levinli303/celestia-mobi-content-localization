@@ -89,7 +89,9 @@ public class Parser {
                     throw ParserError.englishResourceMissing
                 }
 
-                let string = "// English: \(english)\n\"\(key.replacingOccurrences(of: "\"", with: "\\\""))\" = \"\(value.replacingOccurrences(of: "\"", with: "\\\""))\";"
+                let escapedEnglish = english.replacingOccurrences(of: "\n", with: "\\n").replacingOccurrences(of: "\"", with: "\\\"")
+                let escapedValue = value.replacingOccurrences(of: "\n", with: "\\n").replacingOccurrences(of: "\"", with: "\\\"")
+                let string = "// English: \(escapedEnglish)\n\"\(key)\" = \"\(escapedValue)\";"
                 singleStrings.append(string)
             }
             do {
