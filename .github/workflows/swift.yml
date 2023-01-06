@@ -1,0 +1,56 @@
+name: Swift
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron:  '0 * * * *'
+
+jobs:
+  build:
+    runs-on: macos-12
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GH_ACCESS_TOKEN }}
+        fetch-depth: 0
+
+    - name: Get Credentials
+      if: github.event_name != 'pull_request'
+      env:
+        CLOUDKIT_KEY_BASE64: ${{ secrets.CLOUDKIT_KEY_BASE64 }}
+      run: |
+        CLOUDKIT_KEY_PATH=$RUNNER_TEMP/key.pem
+        echo -n "$CLOUDKIT_KEY_BASE64" | base64 --decode --output $CLOUDKIT_KEY_PATH
+
+    - name: Build
+      run: swift build -v
+    
+    - name: Synchronize
+      if: github.event_name == 'schedule'
+      env:
+        CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
+      run: |
+        .build/debug/SynchronizerApp categories ResourceCategory localizedName --english-key=name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git add categories
+
+    - name: Commit
+      if: github.event_name == 'schedule'
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -m "Synchronize"
+          git fetch origin
+          git rebase origin/main
+          git push
+        fi
+
+    - name: Upload
+      if: github.event_name == 'push'
+      run: |
+        if [ "`git show -s --format='%an'`" == "runner" ]; then
+          echo "Ignore runner commit"
+          exit 0
+        fi
+        cp -r categories new-categories
+        git reset --hard HEAD^
+        .build/debug/UploaderApp categories new-categories localizedName --english-key=name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
