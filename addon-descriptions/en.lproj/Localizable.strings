@@ -1012,6 +1012,9 @@
 // English: CoRoT-2 is a binary star system consisting of a Sun-like star and a red dwarf about 699.79 light-years away in the constellation Aquila. The primary star is home to a massive super-Jovian planet that completes an orbit once every 1.74 days
 "4CB964B0-A5F6-21E7-BDA6-0A83C94A2E64" = "CoRoT-2 is a binary star system consisting of a Sun-like star and a red dwarf about 699.79 light-years away in the constellation Aquila. The primary star is home to a massive super-Jovian planet that completes an orbit once every 1.74 days";
 
+// English: Gliese 3512 is a nearby red dwarf star only about 30.95 light-years away in the constellation Ursa Major. It has two gas giant planets that are predicted to have low temperatures despite their relative close proximity to their host star
+"4CDD38ED-8668-4C69-9330-C09C99E79A38" = "Gliese 3512 is a nearby red dwarf star only about 30.95 light-years away in the constellation Ursa Major. It has two gas giant planets that are predicted to have low temperatures despite their relative close proximity to their host star";
+
 // English: TOI-1807 is a K-type main sequence star about 139.04 light-years away in the constellation Canes Venatici. In 2021, a superterran planet 2.57 times the mass of Earth were discovered tidally locked on a 13.19 hour-long orbit at a distance of only 1.19 million km from its star, presumably melting its entire surface with a global ocean of magma
 "4CDFBF24-3F0B-49F6-99DE-5855D3B3465E" = "TOI-1807 is a K-type main sequence star about 139.04 light-years away in the constellation Canes Venatici. In 2021, a superterran planet 2.57 times the mass of Earth were discovered tidally locked on a 13.19 hour-long orbit at a distance of only 1.19 million km from its star, presumably melting its entire surface with a global ocean of magma";
 
@@ -1422,6 +1425,9 @@
 
 // English: A billboard model of the Milky Way showing an artistic interpretation on what our galaxy could look like when viewed from the outside.
 "6EB74087-3502-C384-D95C-66A96C929A9C" = "A billboard model of the Milky Way showing an artistic interpretation on what our galaxy could look like when viewed from the outside.";
+
+// English: TOI-206 is a red dwarf star about 155.94 light-years away in the constellation Dorado. In 2022, a superterran planet 77% larger than Earth was discovered in an extremely close distance of only 1.67 million km from its host star, completing an orbit once every 17.67 hours
+"6F4EB87D-30DC-4CA7-9179-FC76869D12DA" = "TOI-206 is a red dwarf star about 155.94 light-years away in the constellation Dorado. In 2022, a superterran planet 77% larger than Earth was discovered in an extremely close distance of only 1.67 million km from its host star, completing an orbit once every 17.67 hours";
 
 // English: 14P/Wolf is a periodic comet with an orbital period of 8.74 years. It was discovered in September 1884 by Max Wolf. This comet undergoes several perturbations from Jupiter, so its orbit usually changes.
 "6F8C1E7B-619F-F955-E2CB-000EF979B00E" = "14P/Wolf is a periodic comet with an orbital period of 8.74 years. It was discovered in September 1884 by Max Wolf. This comet undergoes several perturbations from Jupiter, so its orbit usually changes.";
@@ -2019,6 +2025,9 @@
 
 // English: AMSAT-OSCAR 7, also known simply as AO-7, is a second Phase 2 amateur radio satellite constructed by the Radio Amateur Satellite Corporation or AMSAT. It was launched on November 15, 1974 and remained operational until a battery failure in 1981. Then after 21 years of apparent silence, the satellite was heard again on June 21, 2002, and is still transmitting whenever it is on the sun-lit side of the Earth today. It is the oldest amateur communications satellite still in active use (as of 2022)
 "9A58CE8F-C5EB-5DBC-78F9-11EDDF908AF3" = "AMSAT-OSCAR 7, also known simply as AO-7, is a second Phase 2 amateur radio satellite constructed by the Radio Amateur Satellite Corporation or AMSAT. It was launched on November 15, 1974 and remained operational until a battery failure in 1981. Then after 21 years of apparent silence, the satellite was heard again on June 21, 2002, and is still transmitting whenever it is on the sun-lit side of the Earth today. It is the oldest amateur communications satellite still in active use (as of 2022)";
+
+// English: CWISEP J1935-1546 is a massive rogue planet or low-end brown dwarf that is discovered in 2019 through direct imaging. It is located about light-years away in the constellation 
+"9AACC256-08F8-4CA1-A718-913A940AFDD8" = "CWISEP J1935-1546 is a massive rogue planet or low-end brown dwarf that is discovered in 2019 through direct imaging. It is located about light-years away in the constellation ";
 
 // English: The Tunguska event was a 12 megaton explosion that occurred over the vast sparsely-populated taiga of Siberia, Russia near the Tunguska River in 1908-Jun-30. Although it did not hit the surface, it was the largest known impact event in recorded history, theorized to have been caused by a small asteroid or cometary fragment about 50-60 m in diameter\nNOTE: To view this event, adjust your current Date/Time on or before 1908-Jun-30, 00:12 UTC
 "9AC63A62-869A-89C9-1E27-86062DEEE038" = "The Tunguska event was a 12 megaton explosion that occurred over the vast sparsely-populated taiga of Siberia, Russia near the Tunguska River in 1908-Jun-30. Although it did not hit the surface, it was the largest known impact event in recorded history, theorized to have been caused by a small asteroid or cometary fragment about 50-60 m in diameter\nNOTE: To view this event, adjust your current Date/Time on or before 1908-Jun-30, 00:12 UTC";
