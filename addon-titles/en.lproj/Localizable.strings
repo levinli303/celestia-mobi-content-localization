@@ -1201,6 +1201,9 @@
 // English: HD 69830
 "5D4DAA53-6F5F-8968-4A78-2AB0CAC545CC" = "HD 69830";
 
+// English: HAT-P-1
+"5D9924FB-7A75-41CD-B44A-B713DD143A08" = "HAT-P-1";
+
 // English: Global Precipitation Measurement
 "5DBE90C5-8C4C-C42C-93DF-1BF14948D470" = "Global Precipitation Measurement";
 
@@ -1224,6 +1227,9 @@
 
 // English: CAPSTONE
 "5FCD698C-D0F3-D451-8451-563A12225CEC" = "CAPSTONE";
+
+// English: K2-4
+"5FD17515-8598-495F-B946-B55AE0324C06" = "K2-4";
 
 // English: 14 Irene
 "5FD420AD-2E0A-0500-7267-2771A36543CC" = "14 Irene";
@@ -2397,6 +2403,9 @@
 
 // English: KOI-7235
 "B7266580-B32B-2DFF-6785-D350E8E76001" = "KOI-7235";
+
+// English: Kepler-50
+"B7D5832D-956C-435B-8BD8-CE6C5FF5751D" = "Kepler-50";
 
 // English: Gliese 581 (Disproven Planets)
 "B7E6CD04-F54C-8CB0-3A98-1D33105CC617" = "Gliese 581 (Disproven Planets)";

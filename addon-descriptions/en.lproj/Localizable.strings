@@ -1201,6 +1201,9 @@
 // English: HD 69830, also known as Gliese 302, is a K-type main-sequence star about 41 light-years away in the constellation Puppis. At least three Neptunian planets were found orbiting close to the star, which are surrounded by a massive debris disk at 0.93-1.16 AU about 20 times denser than the asteroid belt of our Solar System
 "5D4DAA53-6F5F-8968-4A78-2AB0CAC545CC" = "HD 69830, also known as Gliese 302, is a K-type main-sequence star about 41 light-years away in the constellation Puppis. At least three Neptunian planets were found orbiting close to the star, which are surrounded by a massive debris disk at 0.93-1.16 AU about 20 times denser than the asteroid belt of our Solar System";
 
+// English: HAT-P-1, also known as TOI-1388 and Gaia-TROI-81, is a binary star system of a Sun-like star and an F-type main sequence star about 522.37 light-years away in the constellation Lacerta. A superjovian planet orbits the secondary star in the system, component B, which was the first planet discovered by the HATNet Project in 2006
+"5D9924FB-7A75-41CD-B44A-B713DD143A08" = "HAT-P-1, also known as TOI-1388 and Gaia-TROI-81, is a binary star system of a Sun-like star and an F-type main sequence star about 522.37 light-years away in the constellation Lacerta. A superjovian planet orbits the secondary star in the system, component B, which was the first planet discovered by the HATNet Project in 2006";
+
 // English: The Global Precipitation Measurement (GPM) satellite is a NASA/JAXA mission dedicated in environmental research. It was launched from Tanegashima Space Center atop an H-IIA rocket in 2014-Feb-27 and it is still operational to this day (as of 2022)
 "5DBE90C5-8C4C-C42C-93DF-1BF14948D470" = "The Global Precipitation Measurement (GPM) satellite is a NASA/JAXA mission dedicated in environmental research. It was launched from Tanegashima Space Center atop an H-IIA rocket in 2014-Feb-27 and it is still operational to this day (as of 2022)";
 
@@ -1224,6 +1227,9 @@
 
 // English: CAPSTONE is a lunar orbiter that will test and verify the calculated orbital stability planned for the Lunar Gateway space station. The spacecraft is a 12U CubeSat that will also test a navigation system that will measure its position relative to the Lunar Reconnaissance Orbiter (LRO) without relying on ground stations CAPSTONE
 "5FCD698C-D0F3-D451-8451-563A12225CEC" = "CAPSTONE is a lunar orbiter that will test and verify the calculated orbital stability planned for the Lunar Gateway space station. The spacecraft is a 12U CubeSat that will also test a navigation system that will measure its position relative to the Lunar Reconnaissance Orbiter (LRO) without relying on ground stations CAPSTONE";
+
+// English: K2-4 is a K-type main sequence star about 761.14 light-years away in the constellation Virgo. A Neptune-sized planet was discovered orbiting at a distance of 11 million km from its host star, completing one revolution once every 10 days
+"5FD17515-8598-495F-B946-B55AE0324C06" = "K2-4 is a K-type main sequence star about 761.14 light-years away in the constellation Virgo. A Neptune-sized planet was discovered orbiting at a distance of 11 million km from its host star, completing one revolution once every 10 days";
 
 // English: 14 Irene is a large S-type asteroid in the asteroid belt. It was discovered in May 1851 by John Russell Hind.
 "5FD420AD-2E0A-0500-7267-2771A36543CC" = "14 Irene is a large S-type asteroid in the asteroid belt. It was discovered in May 1851 by John Russell Hind.";
@@ -2397,6 +2403,9 @@
 
 // English: KOI-7235 is a Sun-like star about 3,713 light-years in the constellation Lyra. In 2015, signatures of an Earth-sized planet orbiting right in the star's habitable zone was detected, however its existence is yet to be confirmed by follow-up studies\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon to be installed first
 "B7266580-B32B-2DFF-6785-D350E8E76001" = "KOI-7235 is a Sun-like star about 3,713 light-years in the constellation Lyra. In 2015, signatures of an Earth-sized planet orbiting right in the star's habitable zone was detected, however its existence is yet to be confirmed by follow-up studies\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon to be installed first";
+
+// English: Kepler-50, also known as KOI-262, is an F-type main sequence star about 821.63 light-years away in the constellation Cygnus. In 2012, a total of two planets (a superterran and a neptunian) were discovered around this star
+"B7D5832D-956C-435B-8BD8-CE6C5FF5751D" = "Kepler-50, also known as KOI-262, is an F-type main sequence star about 821.63 light-years away in the constellation Cygnus. In 2012, a total of two planets (a superterran and a neptunian) were discovered around this star";
 
 // English: This addon adds the three additional planets (d, f, g) of Gliese 581 which has been disproven by follow-up studies after their reported discoveries. This includes the two former potentially habitable planet candidates d and g, which are now attributed to stellar activity rather than actual planet signals\n\n(NOTE: See the Exoplanets (Early Years, 1988 ~ 2008) category for this star system's confirmed planets b, c, and e)
 "B7E6CD04-F54C-8CB0-3A98-1D33105CC617" = "This addon adds the three additional planets (d, f, g) of Gliese 581 which has been disproven by follow-up studies after their reported discoveries. This includes the two former potentially habitable planet candidates d and g, which are now attributed to stellar activity rather than actual planet signals\n\n(NOTE: See the Exoplanets (Early Years, 1988 ~ 2008) category for this star system's confirmed planets b, c, and e)";
