@@ -271,6 +271,9 @@
 // English: InSight is a NASA robotic lander designed to study the interior of Mars. Nearly identical in design with Phoenix, it was launched in May 2018 and landed on Elysium Planitia on Nov 2018. As of 2022, the lander is still operational on Mars
 "167A20FF-BFA3-979A-C234-3E186F8A6AEA" = "InSight is a NASA robotic lander designed to study the interior of Mars. Nearly identical in design with Phoenix, it was launched in May 2018 and landed on Elysium Planitia on Nov 2018. As of 2022, the lander is still operational on Mars";
 
+// English: HAT-P-8, also known as TOI-5960, is a triple star system of an F-type main sequence star and two red dwarf stars about 694.19 light-years away in the constellation Pegasus. The larger star (component A) has a superjovian planet about 6.48 million km away, completing an orbit once every 3.08 days
+"16F166A5-95EE-476E-A6E8-7E17EC3E7E5C" = "HAT-P-8, also known as TOI-5960, is a triple star system of an F-type main sequence star and two red dwarf stars about 694.19 light-years away in the constellation Pegasus. The larger star (component A) has a superjovian planet about 6.48 million km away, completing an orbit once every 3.08 days";
+
 // English: The ExoMars Trace Gas Orbiter (TGO) is a collaborative project between the ESA and the Roscosmos that sent an atmospheric research orbiter and the Schiaparelli demonstration lander to Mars in 2016 as part of the European-led ExoMars programme. TGO's main mission is to investigate methane and other trace gases in the Martian atmosphere that could be evidence for possible biological activity.
 "1741217B-FE6F-10F9-3965-C60D9EC18863" = "The ExoMars Trace Gas Orbiter (TGO) is a collaborative project between the ESA and the Roscosmos that sent an atmospheric research orbiter and the Schiaparelli demonstration lander to Mars in 2016 as part of the European-led ExoMars programme. TGO's main mission is to investigate methane and other trace gases in the Martian atmosphere that could be evidence for possible biological activity.";
 
@@ -1729,6 +1732,9 @@
 // English: The \"Red\" Planet as seen by the Mariner probes during their visit in 1969 (Mariner 6 and 7) and 1972 (Mariner 9). The first ever global maps of Mars are made in B&W due to the probes lacking a color camera at the time. These maps were obtained digitally from The Planetary Society site
 "887D5981-1CB1-329A-A833-BA6ED65E419B" = "The \"Red\" Planet as seen by the Mariner probes during their visit in 1969 (Mariner 6 and 7) and 1972 (Mariner 9). The first ever global maps of Mars are made in B&W due to the probes lacking a color camera at the time. These maps were obtained digitally from The Planetary Society site";
 
+// English: HD 141399 is a K-type main sequence star about 120.86 light-years away in the constellation Bootes. It has a total of four gas giant planets, all of which are larger in radii than Jupiter itself
+"88A0BA1C-2363-4FDC-BB97-970197D3C552" = "HD 141399 is a K-type main sequence star about 120.86 light-years away in the constellation Bootes. It has a total of four gas giant planets, all of which are larger in radii than Jupiter itself";
+
 // English: Kepler-1634 is a Sun-like star about 2,050 light-years away in the constellation Cygnus. It has a single gas giant planet orbiting within the habitable zone of its parent star.\nNOTE: In real life, there are no known exomoons detected in this system, and therefore the two moons included on this addon are entirely fictional
 "88B084AF-5DE8-E268-1A85-38000C6C4913" = "Kepler-1634 is a Sun-like star about 2,050 light-years away in the constellation Cygnus. It has a single gas giant planet orbiting within the habitable zone of its parent star.\nNOTE: In real life, there are no known exomoons detected in this system, and therefore the two moons included on this addon are entirely fictional";
 
@@ -1950,6 +1956,9 @@
 
 // English: This system focuses on the habitable world of Pangaia, which orbits the gas giant of Gardanah
 "96379164-E5D0-AEB4-8EDF-F072ABBBFC1B" = "This system focuses on the habitable world of Pangaia, which orbits the gas giant of Gardanah";
+
+// English: Kepler-68, also known as KOI-246 and TOI-1290, is a Sun-like star about 472.17 light-years away in the constellation Cygnus. A total of three planets (one neptunian, one subterran, and one superjovian) were discovered within 1.38 AU from this star
+"963CD8E0-5965-4C56-B1FB-553A6422E07D" = "Kepler-68, also known as KOI-246 and TOI-1290, is a Sun-like star about 472.17 light-years away in the constellation Cygnus. A total of three planets (one neptunian, one subterran, and one superjovian) were discovered within 1.38 AU from this star";
 
 // English: TrES-2 Ab is an exoplanet orbiting the star TRES-2 A located 750 light years away from the Earth. The planet has been identified in 2011 as the darkest known exoplanet, reflecting less than 1% of any light that hits it. This system was within the field of view of the Kepler space telescope. TrES-2 Ab is a hot Jupiter that orbits very close to its parent star.
 "96434EDE-A383-E9CA-572F-4A327D22236B" = "TrES-2 Ab is an exoplanet orbiting the star TRES-2 A located 750 light years away from the Earth. The planet has been identified in 2011 as the darkest known exoplanet, reflecting less than 1% of any light that hits it. This system was within the field of view of the Kepler space telescope. TrES-2 Ab is a hot Jupiter that orbits very close to its parent star.";
@@ -2659,6 +2668,9 @@
 // English: HD 85512 is a solitary K-type main-sequence star about 36.81±0.02 light-years away in the constellation Vela. It is host to a single super-Earth-sized planet that is once thought to be potentially habitable, before subsequent analyses prove the planet is too hot for life to survive
 "C8EDBBB9-BAED-9C52-7E71-62A40C9F256E" = "HD 85512 is a solitary K-type main-sequence star about 36.81±0.02 light-years away in the constellation Vela. It is host to a single super-Earth-sized planet that is once thought to be potentially habitable, before subsequent analyses prove the planet is too hot for life to survive";
 
+// English: Kepler-27, also known as KOI-841, is a Sun-like star about 3,507 light-years away in the constellation Cygnus. Three neptunian planets were discovered orbiting this star, with the possibility of two more that currently awaits confirmation from follow-up studies
+"C96104C8-756B-4BCE-8CC7-3D59DB7F89EF" = "Kepler-27, also known as KOI-841, is a Sun-like star about 3,507 light-years away in the constellation Cygnus. Three neptunian planets were discovered orbiting this star, with the possibility of two more that currently awaits confirmation from follow-up studies";
+
 // English: TERRIERS, also known as Explorer 76 and STEDI-2, is a student-built satellite intended to study the Earth's ionosphere. Although launched successfully by a Pegasus-XL rocket in 1999-May-18, its batteries were unable to recharge when it cannot track the Sun and therefore lost contact just two days later, resulting in a mission failure. As of 2022, it is still in orbit as a derelict object
 "C97A1ADA-88AD-4FAF-A3A0-FC20BB029C3E" = "TERRIERS, also known as Explorer 76 and STEDI-2, is a student-built satellite intended to study the Earth's ionosphere. Although launched successfully by a Pegasus-XL rocket in 1999-May-18, its batteries were unable to recharge when it cannot track the Sun and therefore lost contact just two days later, resulting in a mission failure. As of 2022, it is still in orbit as a derelict object";
 
@@ -2718,6 +2730,9 @@
 
 // English: TVLM 513-46546 is an ultracool red dwarf star or brown dwarf about 34.93 light-years away in the constellation Bootes. In 2020, a Saturn-like planet was discovered orbiting within 0.3 AU from the star, completing an orbit once every 221 days
 "CC901BA3-EC63-FB55-EADA-6BC344F33499" = "TVLM 513-46546 is an ultracool red dwarf star or brown dwarf about 34.93 light-years away in the constellation Bootes. In 2020, a Saturn-like planet was discovered orbiting within 0.3 AU from the star, completing an orbit once every 221 days";
+
+// English: NGTS-11, also known as TOI-1847, is a K-type main sequence star about 624.46 light-years away in the constellation Cetus. A gas giant planet about the size of Saturn completes an orbit around its star once every 33.05 days. There's also an additional unconfirmed neptunian planet orbiting three times as close
+"CD294646-6107-4EE4-9977-2F5F47A2AE39" = "NGTS-11, also known as TOI-1847, is a K-type main sequence star about 624.46 light-years away in the constellation Cetus. A gas giant planet about the size of Saturn completes an orbit around its star once every 33.05 days. There's also an additional unconfirmed neptunian planet orbiting three times as close";
 
 // English: Kepler-1155 is a Sun-like star about 4,953 light-years away in the constellation Lyra. It is home to a massive superterran planet about twice the size of Earth, receiving an equilibrium temperature almost similar to Venus
 "CD38B0A3-D802-0102-40E6-195265604B46" = "Kepler-1155 is a Sun-like star about 4,953 light-years away in the constellation Lyra. It is home to a massive superterran planet about twice the size of Earth, receiving an equilibrium temperature almost similar to Venus";
