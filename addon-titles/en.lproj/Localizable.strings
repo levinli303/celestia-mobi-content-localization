@@ -652,6 +652,9 @@
 // English: Earth's Rings
 "31F279A8-BE40-FB0E-1D42-BBE5CADD6EDF" = "Earth's Rings";
 
+// English: Seranna
+"320F8F54-4FEE-4F16-82A0-382AD94773AD" = "Seranna";
+
 // English: 20D/Westphal
 "3230403A-27CB-48E6-99DA-0B56CBC63B62" = "20D/Westphal";
 
@@ -912,6 +915,9 @@
 
 // English: WASP-104
 "44184C38-CC0A-4085-B4DF-2E78DB66E3FE" = "WASP-104";
+
+// English: IRAS 17163-3907 (Fried Egg Nebula)
+"442E1465-E508-4846-81F9-D48C07E19E86" = "IRAS 17163-3907 (Fried Egg Nebula)";
 
 // English: Gliese 581
 "44EECC3A-E7FE-A442-617D-D8A6427BA967" = "Gliese 581";
