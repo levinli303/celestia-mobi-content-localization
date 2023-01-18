@@ -223,6 +223,9 @@
 // English: WASP-12 Ab is a hot Jupiter discovered in 2008 orbiting the star WASP-12 A, 1410 light-years away from Earth in the constellation Auriga. Due to its close proximity to its parent star, WASP-12 Ab is estimated to have an oval shape due to the star's tidal forces.
 "11C2C6DE-E4D9-847A-46FA-09578EE7A4B1" = "WASP-12 Ab is a hot Jupiter discovered in 2008 orbiting the star WASP-12 A, 1410 light-years away from Earth in the constellation Auriga. Due to its close proximity to its parent star, WASP-12 Ab is estimated to have an oval shape due to the star's tidal forces.";
 
+// English: Kepler-435, also known as KOI-680 and TOI-4472, is an F-type main sequence star about 4,823 light-years away in the constellation Cygnus. A huge superjovian planet was discovered completing a 7.98-day orbit around its host star
+"11D9F25A-32F1-476D-91D2-237CFEDABF55" = "Kepler-435, also known as KOI-680 and TOI-4472, is an F-type main sequence star about 4,823 light-years away in the constellation Cygnus. A huge superjovian planet was discovered completing a 7.98-day orbit around its host star";
+
 // English: K2-18 is a red dwarf about 124.16 light-years away in the constellation Leo. It has two planets, one a mini-Neptune, and the other a suspected ocean planet classified as a potentially habitable world, however recent studies showed it is too massive and should be considered a mini-neptune rather than a superterran planet, therefore highly unlikely to support any form of life
 "12081D7E-DBF1-4B35-887E-6CF36FE1A0FE" = "K2-18 is a red dwarf about 124.16 light-years away in the constellation Leo. It has two planets, one a mini-Neptune, and the other a suspected ocean planet classified as a potentially habitable world, however recent studies showed it is too massive and should be considered a mini-neptune rather than a superterran planet, therefore highly unlikely to support any form of life";
 
@@ -1771,6 +1774,9 @@
 // English: 617 Patroclus is a large binary Jupiter L5 trojan asteroid. It is a dark D-type asteroid and a slow rotator, due to the 103-hour orbital period of its two components. It is one of five Jovian asteroids targeted by the Lucy space probe, and is scheduled for a flyby in 2033
 "8938F47A-4BD1-F6EB-9834-FB4224F8469D" = "617 Patroclus is a large binary Jupiter L5 trojan asteroid. It is a dark D-type asteroid and a slow rotator, due to the 103-hour orbital period of its two components. It is one of five Jovian asteroids targeted by the Lucy space probe, and is scheduled for a flyby in 2033";
 
+// English: C/2022 E3 (ZTF) is the 5th comet discovered by the Zwicky Transient Facility overall. Reaching perihelion on January 2023 after a 44,000-year journey inbound, it was believed to originate from the Oort Cloud. On 2023-Feb-1, this comet makes its closest approach to Earth at the distance of 42 million km, and is expected to reach AppMag +6.0 at its brightest. Its outbound hyperbolic trajectory shows that this comet would be ejected from the Solar System altogether
+"8979E110-906C-46A6-BE29-29BAEF615771" = "C/2022 E3 (ZTF) is the 5th comet discovered by the Zwicky Transient Facility overall. Reaching perihelion on January 2023 after a 44,000-year journey inbound, it was believed to originate from the Oort Cloud. On 2023-Feb-1, this comet makes its closest approach to Earth at the distance of 42 million km, and is expected to reach AppMag +6.0 at its brightest. Its outbound hyperbolic trajectory shows that this comet would be ejected from the Solar System altogether";
+
 // English: HAT-P-2, also known as Hunor and HD 147506, is an F-type main-sequence star about 418.3 light-years away from the constellation Hercules. A super-Jovian planet completes an orbit around its parent star once every 2 days
 "8983223C-269F-0B9B-42A0-66A16D20B410" = "HAT-P-2, also known as Hunor and HD 147506, is an F-type main-sequence star about 418.3 light-years away from the constellation Hercules. A super-Jovian planet completes an orbit around its parent star once every 2 days";
 
@@ -2316,6 +2322,9 @@
 
 // English: BD-08 2823, also known as Ross 444, is a K-type main sequence star about 135 light-years away in the constellation Sextans. Two planets (one neptunian and one jovian) were discovered orbiting around this star in 2009 via radial velocity
 "AD5C1B34-344C-4854-84E2-E339EC8D6944" = "BD-08 2823, also known as Ross 444, is a K-type main sequence star about 135 light-years away in the constellation Sextans. Two planets (one neptunian and one jovian) were discovered orbiting around this star in 2009 via radial velocity";
+
+// English: WASP-120, also known as TOI-415, is a binary star system of an F-type and K-type main sequence stars about 1,473 light-years away in the constellation Horologium. A gas giant planet five times the mass of Jupiter was discovered only 8.03 million km away from the primary host star (component A), completing one orbit once every 3.54 days
+"AE491AAF-2D36-46F3-9297-BCAB5A204E97" = "WASP-120, also known as TOI-415, is a binary star system of an F-type and K-type main sequence stars about 1,473 light-years away in the constellation Horologium. A gas giant planet five times the mass of Jupiter was discovered only 8.03 million km away from the primary host star (component A), completing one orbit once every 3.54 days";
 
 // English: 5 Astraea is a large S-type asteroid in the asteroid belt. It was discovered in December 1845 by Karl Ludwig Hencke.
 "AE5E59AF-D2F0-B8AF-17C2-D516DBD5E17C" = "5 Astraea is a large S-type asteroid in the asteroid belt. It was discovered in December 1845 by Karl Ludwig Hencke.";
