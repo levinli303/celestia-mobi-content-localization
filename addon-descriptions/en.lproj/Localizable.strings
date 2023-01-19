@@ -1240,6 +1240,9 @@
 // English: HD 69830, also known as Gliese 302, is a K-type main-sequence star about 41 light-years away in the constellation Puppis. At least three Neptunian planets were found orbiting close to the star, which are surrounded by a massive debris disk at 0.93-1.16 AU about 20 times denser than the asteroid belt of our Solar System
 "5D4DAA53-6F5F-8968-4A78-2AB0CAC545CC" = "HD 69830, also known as Gliese 302, is a K-type main-sequence star about 41 light-years away in the constellation Puppis. At least three Neptunian planets were found orbiting close to the star, which are surrounded by a massive debris disk at 0.93-1.16 AU about 20 times denser than the asteroid belt of our Solar System";
 
+// English: TYC 2187-512-1 is a red dwarf star about 50.5 light-years away in the constellation Pegasus. It has one cold superjovian planet about 1.22 AU away from its host and only 1/3 the mass of Jupiter
+"5D83BDC5-4123-4C16-8DF9-5D46C0E42362" = "TYC 2187-512-1 is a red dwarf star about 50.5 light-years away in the constellation Pegasus. It has one cold superjovian planet about 1.22 AU away from its host and only 1/3 the mass of Jupiter";
+
 // English: HAT-P-1, also known as TOI-1388 and Gaia-TROI-81, is a binary star system of a Sun-like star and an F-type main sequence star about 522.37 light-years away in the constellation Lacerta. A superjovian planet orbits the secondary star in the system, component B, which was the first planet discovered by the HATNet Project in 2006
 "5D9924FB-7A75-41CD-B44A-B713DD143A08" = "HAT-P-1, also known as TOI-1388 and Gaia-TROI-81, is a binary star system of a Sun-like star and an F-type main sequence star about 522.37 light-years away in the constellation Lacerta. A superjovian planet orbits the secondary star in the system, component B, which was the first planet discovered by the HATNet Project in 2006";
 
@@ -2980,6 +2983,9 @@
 // English: The CST-100 (Starliner) is one of two crewed US spacecraft designed to transport crew to and from the ISS and any other future commercial space station. Designed and manufactured by Boeing, this partially reusable spacecraft first flew in 2019, and is expected to carry humans to space as early as April 2023
 "DC50F16C-247D-4CDA-A68D-B0CBAAAC4A6A" = "The CST-100 (Starliner) is one of two crewed US spacecraft designed to transport crew to and from the ISS and any other future commercial space station. Designed and manufactured by Boeing, this partially reusable spacecraft first flew in 2019, and is expected to carry humans to space as early as April 2023";
 
+// English: DENIS-P J082303.1-491201 is a brown dwarf about 67.4 light-years away in the constellation Vela. It is orbited by a substellar object that is classified either as a massive superjovian planet or another low-end brown dwarf only about 0.46 AU away from its host star
+"DC50F7BB-8EA5-44DB-AF41-A3186D3545F7" = "DENIS-P J082303.1-491201 is a brown dwarf about 67.4 light-years away in the constellation Vela. It is orbited by a substellar object that is classified either as a massive superjovian planet or another low-end brown dwarf only about 0.46 AU away from its host star";
+
 // English: Van Maanen's Star is a white dwarf, and the closest such single star to Sol. In the ArcBuilder setting, it is orbited by the burnt out remains of a Gaian planet, named Absalom, which holds evidence for an ancient sapient species. Also present is a colonial ship, sent there as an Exile Colony, and which subsequently suffered a catastrophic failure.
 "DC6D6AF9-8F21-4633-204A-A747FD14682D" = "Van Maanen's Star is a white dwarf, and the closest such single star to Sol. In the ArcBuilder setting, it is orbited by the burnt out remains of a Gaian planet, named Absalom, which holds evidence for an ancient sapient species. Also present is a colonial ship, sent there as an Exile Colony, and which subsequently suffered a catastrophic failure.";
 
@@ -3033,6 +3039,9 @@
 
 // English: Sentinel-6 Michael Freilich is a joint satellite between NASA, ESA and other European and American organizations for the study and observation of sea level rise, changes in ocean currents and other observations. This satellite was launched into space on November 21, 2020 on a Falcon 9 rocket.
 "DF282F80-91AD-9087-85B1-265D3A84898D" = "Sentinel-6 Michael Freilich is a joint satellite between NASA, ESA and other European and American organizations for the study and observation of sea level rise, changes in ocean currents and other observations. This satellite was launched into space on November 21, 2020 on a Falcon 9 rocket.";
+
+// English: CFBDS J145829+101343 is a T-type brown dwarf about 75.34 light-years away in the constellation Bootes. A substellar object that is either a massive superjovian planet or another low-end brown dwarf orbits at a distance of 2.59 AU away from its host
+"DF36FF89-F054-42A1-A355-508DE029E252" = "CFBDS J145829+101343 is a T-type brown dwarf about 75.34 light-years away in the constellation Bootes. A substellar object that is either a massive superjovian planet or another low-end brown dwarf orbits at a distance of 2.59 AU away from its host";
 
 // English: A fictional circumbinary system featuring the tropical jungle planet of Belle Hades, known for lavender sunsets. Home to a race of blue elves who helped King Eugene found the Plutonian Empire in 2020.
 "DF5318DA-BA36-1897-D9CD-1EF15E559F7A" = "A fictional circumbinary system featuring the tropical jungle planet of Belle Hades, known for lavender sunsets. Home to a race of blue elves who helped King Eugene found the Plutonian Empire in 2020.";
