@@ -871,6 +871,9 @@
 // English: Pioneer 6 to 9
 "40CDDB17-BDEB-4E75-2E9F-7D6A9FDDF265" = "Pioneer 6 to 9";
 
+// English: CoRoT-4
+"4169F2A4-E302-4F25-BB19-925FEFA8236B" = "CoRoT-4";
+
 // English: Proxima Centauri
 "41755833-971A-7F24-F769-C9332075DD00" = "Proxima Centauri";
 
@@ -3042,6 +3045,9 @@
 
 // English: SpaceX Dragon 1
 "DF65FECB-441D-4C2D-AE47-3FC60A0108BC" = "SpaceX Dragon 1";
+
+// English: CoRoT-8
+"DF8784A5-9B40-4A0B-ACAD-28C5F0828DA7" = "CoRoT-8";
 
 // English: NGC 6751 (Glowing Eye Nebula)
 "E00CE50E-627E-88CD-751B-FE47058DB8DA" = "NGC 6751 (Glowing Eye Nebula)";
