@@ -2728,6 +2728,9 @@
 // English: (42301) 2001 UR₁₆₃ is a resonant trans-Neptunian object and possible dwarf planet located in the outermost region of the Solar System. The object is 352±85 km in diameter with a high albedo and stays in an uncommon orbital resonance (4:9) with Neptune. It has the reddest color (RR-U) of any object in the Solar System
 "C99A9BFF-27B1-AC84-062E-DA84F021BF95" = "(42301) 2001 UR₁₆₃ is a resonant trans-Neptunian object and possible dwarf planet located in the outermost region of the Solar System. The object is 352±85 km in diameter with a high albedo and stays in an uncommon orbital resonance (4:9) with Neptune. It has the reddest color (RR-U) of any object in the Solar System";
 
+// English: HAT-P-22, also known as TOI-1771 and Gaia-TROI-96, is a binary star system of a Sun-like star and a K-type main sequence star about 267.31 light-years away in the constellation Ursa Major. A Jupiter-sized planet two times hotter than Venus orbits the primary star in the system, component A, completing one revolution once every 3.2 days at a distance of only 6 million km
+"C9B625DC-C039-4594-A163-E8B1B13EDD54" = "HAT-P-22, also known as TOI-1771 and Gaia-TROI-96, is a binary star system of a Sun-like star and a K-type main sequence star about 267.31 light-years away in the constellation Ursa Major. A Jupiter-sized planet two times hotter than Venus orbits the primary star in the system, component A, completing one revolution once every 3.2 days at a distance of only 6 million km";
+
 // English: Adds those systems and their planets.\n\nThis add-on works on Mobile Celestia 1.4.10, Celestia for UWP 2.0.20 and earlier.
 "C9BBE47E-B993-E490-2151-56128E8193A2" = "Adds those systems and their planets.\n\nThis add-on works on Mobile Celestia 1.4.10, Celestia for UWP 2.0.20 and earlier.";
 
