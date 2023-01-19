@@ -817,6 +817,9 @@
 // English: Qatar-1
 //"3DF58DA3-596E-4DEE-BC9B-F5F7DCCE4E7F" = "Qatar-1";
 
+// English: SPOT-1 to 3
+//"3E1BEB68-AB8F-4A65-9C50-B4BD5389F6A9" = "SPOT-1 to 3";
+
 // English: Moon: Statio Cognitum
 //"3E2AFAB8-6D25-4949-966E-F1E177D44107" = "Moon: Statio Cognitum";
 
@@ -1335,6 +1338,9 @@
 
 // English: Gaia
 //"637C7269-05CA-CB05-4ADF-8BC5AD5B72A0" = "Gaia";
+
+// English: Earth Radiation Budget Satellite
+//"639C233F-67F3-4392-BA4F-5FD2D02BDF7F" = "Earth Radiation Budget Satellite";
 
 // English: Kepler-63
 //"63E8BA60-5100-4DCB-B528-68BB322A8231" = "Kepler-63";
