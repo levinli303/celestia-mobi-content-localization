@@ -1027,6 +1027,9 @@
 // English: Io (Volcanic Plumes)
 //"4C042E19-DEB4-ABB2-90D4-D05ED22DD201" = "Io (Volcanic Plumes)";
 
+// English: HAT-P-4
+//"4C599690-2BF5-4ED9-B4EF-F664D1687AE6" = "HAT-P-4";
+
 // English: Al-Amal
 //"4C6AE771-BE52-F255-216F-2B5E92030182" = "Al-Amal";
 
@@ -1828,6 +1831,9 @@
 // English: Luna 17 and 21
 //"8B108DA4-C0EC-C960-55D7-92C38381A291" = "Luna 17 and 21";
 
+// English: Kepler-89
+//"8B1AF3C7-C9E1-4DE8-818D-6E2C00E2E93F" = "Kepler-89";
+
 // English: [MPK2010b] 4450
 //"8BB8B24D-2339-D0D7-3DC5-D7EB4100FD81" = "[MPK2010b] 4450";
 
@@ -2199,6 +2205,9 @@
 
 // English: Sputnik 1
 //"A2BBB352-E310-C92D-F99D-18F4727D7646" = "Sputnik 1";
+
+// English: HAT-P-23
+//"A2BE5552-DDE5-4DAA-A6C7-91002AF5FF69" = "HAT-P-23";
 
 // English: IRAS 18059-3211 (Gomez's Hamburger)
 //"A2CA27BA-0F82-4572-BE9B-AAB9CA80AF98" = "IRAS 18059-3211 (Gomez's Hamburger)";
@@ -3288,6 +3297,9 @@
 
 // English: Luna 2
 //"F5C7FE4B-21D4-3ABB-7304-3ABDE7239BEE" = "Luna 2";
+
+// English: Kepler-105
+//"F603277B-8F2B-4E1A-B312-043E4B36428E" = "Kepler-105";
 
 // English: Kepler-56
 //"F6484870-C694-4423-8849-A7E9F257ED6D" = "Kepler-56";
