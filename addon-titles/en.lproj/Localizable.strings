@@ -4,8 +4,8 @@
 // English: Centaur-D
 "009B34FB-F229-F520-6EE4-15B93F6EF42F" = "Centaur-D";
 
-// English: 2022 NEOs
-"00A49425-F9E4-9E59-B578-27DDC0B3FE3D" = "2022 NEOs";
+// English: Near-Earth Objects of 2022
+"00A49425-F9E4-9E59-B578-27DDC0B3FE3D" = "Near-Earth Objects of 2022";
 
 // English: (29075) 1950 DA
 "00AD7CD6-F84E-C5CB-A0D5-C96A81CB7D1E" = "(29075) 1950 DA";
@@ -1951,6 +1951,9 @@
 // English: 8P/Tuttle
 "91ECF6DA-1F62-6CB6-EE49-F29F4DB9CCA9" = "8P/Tuttle";
 
+// English: HAT-P-32
+"9202E21B-64BC-4241-910A-2295D0E1D28D" = "HAT-P-32";
+
 // English: 4P/Faye
 "92974542-243E-B8D3-2CF2-6011D41801A8" = "4P/Faye";
 
@@ -2782,8 +2785,8 @@
 // English: 28978 Ixion
 "CB7416CB-04BC-7497-97AE-FC3EF3EFFB67" = "28978 Ixion";
 
-// English: 2020 NEOs
-"CB7695EB-5BC5-B8BF-3687-9A610E5CC949" = "2020 NEOs";
+// English: Near-Earth Objects of 2020
+"CB7695EB-5BC5-B8BF-3687-9A610E5CC949" = "Near-Earth Objects of 2020";
 
 // English: M 83 (Southern Pinwheel Galaxy)
 "CB88C143-7F12-52DD-70A4-77DFCF8B95A4" = "M 83 (Southern Pinwheel Galaxy)";

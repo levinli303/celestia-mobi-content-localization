@@ -1951,6 +1951,9 @@
 // English: 8P/Tuttle is a periodic comet with an orbital period of 13.6 years. It was discovered in January 1858 by Horace Parnell Tuttle. Radar observations made by the Arecibo observatory in January 2008 indicate that the comet is a contact binary.
 "91ECF6DA-1F62-6CB6-EE49-F29F4DB9CCA9" = "8P/Tuttle is a periodic comet with an orbital period of 13.6 years. It was discovered in January 1858 by Horace Parnell Tuttle. Radar observations made by the Arecibo observatory in January 2008 indicate that the comet is a contact binary.";
 
+// English: HAT-P-32, also known as Gaia-TROI-152, is a binary star system consisting of a large Sun-like star and a red dwarf about 950.75 light-years away in the constellation Andromeda. The larger star of the two (component A) has a total of two enormous gas giants, both of which are larger than Jupiter, but only the outermost planet is more massive
+"9202E21B-64BC-4241-910A-2295D0E1D28D" = "HAT-P-32, also known as Gaia-TROI-152, is a binary star system consisting of a large Sun-like star and a red dwarf about 950.75 light-years away in the constellation Andromeda. The larger star of the two (component A) has a total of two enormous gas giants, both of which are larger than Jupiter, but only the outermost planet is more massive";
+
 // English: 4P/Faye is a periodic comet of the Jupiter family discovered in November 1843 by Hervé Faye. It has an orbital period of 7.48 years.
 "92974542-243E-B8D3-2CF2-6011D41801A8" = "4P/Faye is a periodic comet of the Jupiter family discovered in November 1843 by Hervé Faye. It has an orbital period of 7.48 years.";
 
@@ -2782,8 +2785,8 @@
 // English: Ixion is a large 2:3 resonant Kuiper Belt object (plutino) about 617 km in diameter. Little is known about this object, as its mass and density are uncertain in part due to a lack of even a single moon
 "CB7416CB-04BC-7497-97AE-FC3EF3EFFB67" = "Ixion is a large 2:3 resonant Kuiper Belt object (plutino) about 617 km in diameter. Little is known about this object, as its mass and density are uncertain in part due to a lack of even a single moon";
 
-// English: Adds two NEOs discovered this year (2020).
-"CB7695EB-5BC5-B8BF-3687-9A610E5CC949" = "Adds two NEOs discovered this year (2020).";
+// English: Adds two asteroids that have made close approaches to Earth in 2020
+"CB7695EB-5BC5-B8BF-3687-9A610E5CC949" = "Adds two asteroids that have made close approaches to Earth in 2020";
 
 // English: The Southern Pinwheel Galaxy (also known as Messier 83 or NGC 5236) is an Sc-type grand design spiral galaxy about 15 million light-years away in the constellation Hydra. Its resemblance with the Pinwheel Galaxy (Messier 101) is the primary reason why Messier 83 is called the \"Southern Pinwheel\"\n\n(NOTE: Disable \"Galaxies\" in settings to obtain the best view of the object's 3D model)
 "CB88C143-7F12-52DD-70A4-77DFCF8B95A4" = "The Southern Pinwheel Galaxy (also known as Messier 83 or NGC 5236) is an Sc-type grand design spiral galaxy about 15 million light-years away in the constellation Hydra. Its resemblance with the Pinwheel Galaxy (Messier 101) is the primary reason why Messier 83 is called the \"Southern Pinwheel\"\n\n(NOTE: Disable \"Galaxies\" in settings to obtain the best view of the object's 3D model)";
