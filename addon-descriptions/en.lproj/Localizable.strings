@@ -2737,6 +2737,9 @@
 // English: This addon adds Uranus's polar auroras.
 "C6A9F6A9-707B-7E9E-8AF7-BCE409975ABA" = "This addon adds Uranus's polar auroras.";
 
+// English: SPOT-4 is a French Earth observations satellite that operated from 1998 to 2013. During its lifetime, it continuously scanned the Earth's surface in four different bandwidths, with resolutions ranging from 10 to 20 m. This satellite remains in orbit as a derelict object as of 2023
+"C71E7303-32D9-4DE6-8F2E-4C7BCB73E861" = "SPOT-4 is a French Earth observations satellite that operated from 1998 to 2013. During its lifetime, it continuously scanned the Earth's surface in four different bandwidths, with resolutions ranging from 10 to 20 m. This satellite remains in orbit as a derelict object as of 2023";
+
 // English: HW Virginis is an eclipsing binary star system consisting of a red dwarf and a blue subdwarf about 590 light-years away in the constellation Virgo. It was claimed in 2008 that two massive super-Jovian planets orbit both stars, but subsequent observations especially in 2018 and 2021 proved that it is far too chaotic in short timespans if such objects exist within the star system
 "C73D2830-8B56-49CF-843A-EE3DA1BAB05C" = "HW Virginis is an eclipsing binary star system consisting of a red dwarf and a blue subdwarf about 590 light-years away in the constellation Virgo. It was claimed in 2008 that two massive super-Jovian planets orbit both stars, but subsequent observations especially in 2018 and 2021 proved that it is far too chaotic in short timespans if such objects exist within the star system";
 
