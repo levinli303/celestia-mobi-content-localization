@@ -2185,6 +2185,9 @@
 // English: MOA-2010-BLG-477L is a white dwarf star about 6,491 light-years away in the constellation Sagittarius. One superjovian planet orbiting at a distance of 2.79 AU from its star was discovered through microlensing
 "A0048CEB-9B70-4D40-9B05-17256AE3911A" = "MOA-2010-BLG-477L is a white dwarf star about 6,491 light-years away in the constellation Sagittarius. One superjovian planet orbiting at a distance of 2.79 AU from its star was discovered through microlensing";
 
+// English: HAT-P-24, also known as TOI-511 and Gaia-TROI-163, is a binary star system of an F-type main sequence star and a red dwarf about 1,371 light-years away in the constellation Gemini. The larger star (component A) has a superjovian planet about 6.32 million km away, completing an orbit once every 3.27 days
+"A013209D-516E-4A60-BCC7-103B14E42C86" = "HAT-P-24, also known as TOI-511 and Gaia-TROI-163, is a binary star system of an F-type main sequence star and a red dwarf about 1,371 light-years away in the constellation Gemini. The larger star (component A) has a superjovian planet about 6.32 million km away, completing an orbit once every 3.27 days";
+
 // English: This add-on places the USS Voyager in orbit around the star Barzan.
 "A0A7471E-F9FD-CA2E-FC07-C93C30C29C05" = "This add-on places the USS Voyager in orbit around the star Barzan.";
 
