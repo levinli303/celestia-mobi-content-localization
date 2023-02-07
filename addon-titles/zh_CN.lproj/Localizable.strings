@@ -64,6 +64,9 @@
 // English: 2020 XL5
 //"04D0E3B5-5126-4C13-CFAC-92D79E84C687" = "2020 XL5";
 
+// English: Kepler-108
+//"04D5A202-C44D-40EA-9382-0CC100463ED0" = "Kepler-108";
+
 // English: Pr0211
 //"05101896-AC79-4EA3-B6C6-E60EC1EC2FD1" = "Pr0211";
 
@@ -1450,6 +1453,9 @@
 // English: Phoenix
 //"6B4CBBBB-E1D9-7468-B01E-ACBA4DFB1AEE" = "Phoenix";
 
+// English: HD 238894
+//"6B87AAE8-3B67-495B-9661-C5FC2851ED0D" = "HD 238894";
+
 // English: Juno Centaur, Lucy Centaur, Kepler Booster and 6Q0B44E
 //"6BBDAF45-E710-4502-9F3C-D242F0D239A4" = "Juno Centaur, Lucy Centaur, Kepler Booster and 6Q0B44E";
 
@@ -2788,6 +2794,9 @@
 // English: HD 85512
 //"C8EDBBB9-BAED-9C52-7E71-62A40C9F256E" = "HD 85512";
 
+// English: Shenzhou 8 to 15
+//"C92100E0-32F8-4E3D-8F6A-1FA4BD5FE7A2" = "Shenzhou 8 to 15";
+
 // English: Kepler-27
 //"C96104C8-756B-4BCE-8CC7-3D59DB7F89EF" = "Kepler-27";
 
@@ -3477,6 +3486,9 @@
 
 // English: Salyut 6
 //"FF47F01E-3583-92F1-3C14-C152D503DC9C" = "Salyut 6";
+
+// English: HAT-P-21
+//"FF51A034-8A75-431E-A843-DFF8D46A66DD" = "HAT-P-21";
 
 // English: HD 106906 b (by Vision, Cham and Shas-El)
 //"FF5AD8D8-43CD-FFFE-88AD-B389507D0B5E" = "HD 106906 b (by Vision, Cham and Shas-El)";
