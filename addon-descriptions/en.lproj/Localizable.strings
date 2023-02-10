@@ -829,6 +829,9 @@
 // English: Mars Polar Lander was a robotic spacecraft intended to study the soil and climate of Planum Australe, near the south pole of Mars. Its launch took place on January 3, 1999 and spacecraft arrived on Mars on December 3, 1999. Therefore, after the descent phase, communication with spacecraft was lost. It is believed that the premature termination of the engine firing before the spacecraft touched the Martian surface, caused it to collide with the surface at high speed and consequently, was destroyed by impact.\nNOTE: This addon adds the Mars Polar Lander intact to the surface of Mars, but in reality it was destroyed by the impact.
 "3C317F2D-A901-286F-4A07-0F679ED45D2B" = "Mars Polar Lander was a robotic spacecraft intended to study the soil and climate of Planum Australe, near the south pole of Mars. Its launch took place on January 3, 1999 and spacecraft arrived on Mars on December 3, 1999. Therefore, after the descent phase, communication with spacecraft was lost. It is believed that the premature termination of the engine firing before the spacecraft touched the Martian surface, caused it to collide with the surface at high speed and consequently, was destroyed by impact.\nNOTE: This addon adds the Mars Polar Lander intact to the surface of Mars, but in reality it was destroyed by the impact.";
 
+// English: Kepler-371, also known as KOI-2194, is a Sun-like star about 2,715 light-years away in the constellation Cygnus. As of 2023, it has two confirmed neptunian planets, and an additional superterran planet that, if confirmed, will likely be listed as a potentially habitable world
+"3C40F1A8-8600-48D3-9F13-22ABE36D95C3" = "Kepler-371, also known as KOI-2194, is a Sun-like star about 2,715 light-years away in the constellation Cygnus. As of 2023, it has two confirmed neptunian planets, and an additional superterran planet that, if confirmed, will likely be listed as a potentially habitable world";
+
 // English: Kepler-1658 is an F-type subgiant star about 2,629 light-years away in the constellation Cygnus. A Jupiter-sized planet is found orbiting its star once every 4.31 days
 "3C507C33-D07E-4C0A-BA96-65A09265351E" = "Kepler-1658 is an F-type subgiant star about 2,629 light-years away in the constellation Cygnus. A Jupiter-sized planet is found orbiting its star once every 4.31 days";
 
@@ -1536,6 +1539,9 @@
 
 // English: A fictional spacecraft launched in January 18, 2020 to study the program's namesake near-Earth asteroid (4179 Toutatis) and the Red Planet by 2022. It was the last of the eight missions as part of the Toutatis Program (2018-2047)
 "71CC194F-4E22-4AB0-A350-9B4A75E00B3B" = "A fictional spacecraft launched in January 18, 2020 to study the program's namesake near-Earth asteroid (4179 Toutatis) and the Red Planet by 2022. It was the last of the eight missions as part of the Toutatis Program (2018-2047)";
+
+// English: Kepler-950, also known as KOI-1787, is a distant Sun-like star about 7,545 light-years away in the constellation Lyra. A planet two-thirds the size of Saturn completes a 98-day orbit around its host star
+"722A6BC3-1E4F-4785-BE2E-BB4069CAF867" = "Kepler-950, also known as KOI-1787, is a distant Sun-like star about 7,545 light-years away in the constellation Lyra. A planet two-thirds the size of Saturn completes a 98-day orbit around its host star";
 
 // English: Kepler-62 is a K-type main sequence star cooler and smaller than the Sun, located roughly 990±4 light-years from Earth in the constellation Lyra. It has five known planets orbiting it, two of which are considered as potentially habitable
 "72E17FDC-C5A5-2348-4378-E4C64FAA4EBE" = "Kepler-62 is a K-type main sequence star cooler and smaller than the Sun, located roughly 990±4 light-years from Earth in the constellation Lyra. It has five known planets orbiting it, two of which are considered as potentially habitable";
@@ -2304,6 +2310,9 @@
 
 // English: TOI-220 is a K-type main sequence star about 296.73 light-years away in the constellation Pictor. One neptunian planet was discovered in a 10.64-day orbit around its star, with an additional Jupiter-sized planet whose existence is waiting to be confirmed by follow-up studies
 "A59818FE-D0D0-4FD5-A432-F2CED977D9FC" = "TOI-220 is a K-type main sequence star about 296.73 light-years away in the constellation Pictor. One neptunian planet was discovered in a 10.64-day orbit around its star, with an additional Jupiter-sized planet whose existence is waiting to be confirmed by follow-up studies";
+
+// English: This addon adds the innermost planet (d) of Kepler-105, a lava world which, as of 2023, its existence is yet to be confirmed by follow-up studies and observations\n\nNOTE: The confirmed planets of Kepler-105 is located in the \"Exoplanets: K\" category
+"A59C4E2C-7AE8-4A76-B0B9-533187F1B5FA" = "This addon adds the innermost planet (d) of Kepler-105, a lava world which, as of 2023, its existence is yet to be confirmed by follow-up studies and observations\n\nNOTE: The confirmed planets of Kepler-105 is located in the \"Exoplanets: K\" category";
 
 // English: Ulysses was a NASA/ESA space probe whose primary mission was to orbit the Sun and study it at all latitudes. It was launched in 1990 and made three \"fast latitude scans\" of the Sun in 1994/1995, 2000/2001, and 2007/2008. In addition, the probe studied several comets until it is decommissioned in 2009\nNOTE: Requires the Space Shuttle addon found in the \"Spacecraft (1951-2000)\" category
 "A5B9FF27-B8E4-130C-182A-3917EFE3C566" = "Ulysses was a NASA/ESA space probe whose primary mission was to orbit the Sun and study it at all latitudes. It was launched in 1990 and made three \"fast latitude scans\" of the Sun in 1994/1995, 2000/2001, and 2007/2008. In addition, the probe studied several comets until it is decommissioned in 2009\nNOTE: Requires the Space Shuttle addon found in the \"Spacecraft (1951-2000)\" category";

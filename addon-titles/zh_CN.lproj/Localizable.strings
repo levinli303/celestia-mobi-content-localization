@@ -829,6 +829,9 @@
 // English: Mars Polar Lander
 //"3C317F2D-A901-286F-4A07-0F679ED45D2B" = "Mars Polar Lander";
 
+// English: Kepler-371
+//"3C40F1A8-8600-48D3-9F13-22ABE36D95C3" = "Kepler-371";
+
 // English: Kepler-1658
 //"3C507C33-D07E-4C0A-BA96-65A09265351E" = "Kepler-1658";
 
@@ -1536,6 +1539,9 @@
 
 // English: Toutatis-8
 //"71CC194F-4E22-4AB0-A350-9B4A75E00B3B" = "Toutatis-8";
+
+// English: Kepler-950
+//"722A6BC3-1E4F-4785-BE2E-BB4069CAF867" = "Kepler-950";
 
 // English: Kepler-62
 //"72E17FDC-C5A5-2348-4378-E4C64FAA4EBE" = "Kepler-62";
@@ -2304,6 +2310,9 @@
 
 // English: TOI-220
 //"A59818FE-D0D0-4FD5-A432-F2CED977D9FC" = "TOI-220";
+
+// English: Kepler-105 (Unconfirmed Planet)
+//"A59C4E2C-7AE8-4A76-B0B9-533187F1B5FA" = "Kepler-105 (Unconfirmed Planet)";
 
 // English: Ulysses
 //"A5B9FF27-B8E4-130C-182A-3917EFE3C566" = "Ulysses";
