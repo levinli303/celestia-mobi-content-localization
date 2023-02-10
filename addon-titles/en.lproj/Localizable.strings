@@ -1117,6 +1117,9 @@
 // English: Giotto
 "4E7AD006-8874-6797-6307-CE0A9FC5EB42" = "Giotto";
 
+// English: HAT-P-14
+"4F6540E8-2D11-457E-8C08-32383B634797" = "HAT-P-14";
+
 // English: Kepler-15
 "4F6D4390-DDA8-4D81-81E8-FA52EAB0961F" = "Kepler-15";
 
@@ -2496,6 +2499,9 @@
 
 // English: KELT-8
 "B2B16D9F-404B-4CFF-BABB-2270C36CC40F" = "KELT-8";
+
+// English: Kepler-371 (Unconfirmed Planet)
+"B33FC891-B7CD-4F76-9BA7-C87DA3BEAD2F" = "Kepler-371 (Unconfirmed Planet)";
 
 // English: Wind
 "B382DD0E-213E-D034-ECD3-B613FD9DA0C7" = "Wind";
