@@ -3205,6 +3205,9 @@
 // English: NGC 4414 is an Sc-type spiral galaxy about 61.44 million light-years away in the constellation Coma Berenices. This galaxy is very isolated from other galaxies that there is no sign of an interaction or even merged with one in the past
 "E219CF30-54CD-A8EA-4C64-BD25E6261556" = "NGC 4414 is an Sc-type spiral galaxy about 61.44 million light-years away in the constellation Coma Berenices. This galaxy is very isolated from other galaxies that there is no sign of an interaction or even merged with one in the past";
 
+// English: This add-on is based on Kepler-186, with all data based on observations recorded in the Q1-Q17 DR25 KOI Table (2018), with the addition of three hypothetical planets moons in addition to the five confirmed planets b,c,d,e,f.
+"E26133D5-AF4C-4784-8FFC-F5602EDCD8CA" = "This add-on is based on Kepler-186, with all data based on observations recorded in the Q1-Q17 DR25 KOI Table (2018), with the addition of three hypothetical planets moons in addition to the five confirmed planets b,c,d,e,f.";
+
 // English: This addon adds a 3D model for Saturn's moon Iapetus, based on data from the Cassini spacecraft.
 "E2826B02-E531-2818-4115-F7A4993D609B" = "This addon adds a 3D model for Saturn's moon Iapetus, based on data from the Cassini spacecraft.";
 
