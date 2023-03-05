@@ -28,6 +28,9 @@
 // English: Kepler-10 is a Sun-like star about 608±3 light-years away in the constellation Draco. It has two confirmed planets orbiting, with the one closest to its star is the very first rocky planet ever discovered by the Kepler Space Telescope.
 "01F369EF-14D0-B83F-A8FA-313D31AF0262" = "Kepler-10 is a Sun-like star about 608±3 light-years away in the constellation Draco. It has two confirmed planets orbiting, with the one closest to its star is the very first rocky planet ever discovered by the Kepler Space Telescope.";
 
+// English: Kepler-29, also known as KOI-738, is an Sun-like star about 2,778 light-years away in the constellation Cygnus. Two neptunian planets were discovered completing 10 and 13-day orbits respectively around this star
+"024C9CC8-8D70-47DD-910F-68EFA76368CE" = "Kepler-29, also known as KOI-738, is an Sun-like star about 2,778 light-years away in the constellation Cygnus. Two neptunian planets were discovered completing 10 and 13-day orbits respectively around this star";
+
 // English: Jones-Emberson 1 (PK 164+31.1), also known as the Headphone Nebula, is a 14th magnitude planetary nebula in the constellation Lynx at a distance of 1,600 light years. The 16.8-magnitude central star is a very blue white dwarf
 "02B1F10B-AA6D-688F-1C35-6D90223E5AC7" = "Jones-Emberson 1 (PK 164+31.1), also known as the Headphone Nebula, is a 14th magnitude planetary nebula in the constellation Lynx at a distance of 1,600 light years. The 16.8-magnitude central star is a very blue white dwarf";
 
@@ -522,6 +525,9 @@
 
 // English: Salyut 4 is a space station operated by the Soviet Union from 1974 to 1977. Three cosmonaut crews arriving in Soyuz spacecraft were launched to the station, the second one (18A) was aborted due to a rocket malfunction, while the third one stayed aboard the station for 63 days, departing just days after the Apollo-Soyuz Test Project ended. The last Soyuz mission to launch to Salyut 4 is uncrewed (Soyuz 20), which primary purpose is to test the endurance of a Soyuz spacecraft in space. Salyut 4 was deorbited on February 1977.\n(NOTE: This addon also includes Cosmos 557, a space station identical in design to Salyut 4, which had lost control in orbit at the same time Skylab was launched in May 1973)
 "2787294E-0D4B-C42E-6039-720474FEF752" = "Salyut 4 is a space station operated by the Soviet Union from 1974 to 1977. Three cosmonaut crews arriving in Soyuz spacecraft were launched to the station, the second one (18A) was aborted due to a rocket malfunction, while the third one stayed aboard the station for 63 days, departing just days after the Apollo-Soyuz Test Project ended. The last Soyuz mission to launch to Salyut 4 is uncrewed (Soyuz 20), which primary purpose is to test the endurance of a Soyuz spacecraft in space. Salyut 4 was deorbited on February 1977.\n(NOTE: This addon also includes Cosmos 557, a space station identical in design to Salyut 4, which had lost control in orbit at the same time Skylab was launched in May 1973)";
+
+// English: NGTS-16 is a Sun-like star about 3,008 light-years away in the constellation Eridanus. A planet larger than Jupiter yet only 1/7 its mass completes a 4.85-day orbit around its star at a distance of only 7.75 million km
+"27EEABDB-404C-4777-A87E-CAC6BE9D7E2A" = "NGTS-16 is a Sun-like star about 3,008 light-years away in the constellation Eridanus. A planet larger than Jupiter yet only 1/7 its mass completes a 4.85-day orbit around its star at a distance of only 7.75 million km";
 
 // English: This add-on adds 2600 stars and 214 globular clusters to the Andromeda Galaxy. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.
 "280A2002-C66A-11B0-B9AE-865EC164DA2C" = "This add-on adds 2600 stars and 214 globular clusters to the Andromeda Galaxy. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.";
@@ -1185,6 +1191,9 @@
 
 // English: KOI-5819 is a Sun-like star about 2,700 light-years away in the constellation Cygnus. In 2014, a transit signal detected on this star indicates the possible existence of a large rocky planet orbiting within the star's habitable zone. Once confirmed, it would be listed among the most Earth-like planets ever discovered\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon installed for this to fully work
 "53F67CD7-0D8F-47E0-B216-5AA844366B12" = "KOI-5819 is a Sun-like star about 2,700 light-years away in the constellation Cygnus. In 2014, a transit signal detected on this star indicates the possible existence of a large rocky planet orbiting within the star's habitable zone. Once confirmed, it would be listed among the most Earth-like planets ever discovered\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon installed for this to fully work";
+
+// English: Rho Indi is a G-type subgiant star about 87.12 light-years away in the constellation Indus. A gas giant planet about twice the mass of Jupiter was discovered, orbiting about 3.18 AU away from its host star.
+"54599D27-ED40-444E-B0AB-F848D1E9A1F6" = "Rho Indi is a G-type subgiant star about 87.12 light-years away in the constellation Indus. A gas giant planet about twice the mass of Jupiter was discovered, orbiting about 3.18 AU away from its host star.";
 
 // English: The Black Acropolis is a pair of ancient Dyson swarms in a \"snailshell\" configuration, first built 312 million years ago by the vanished Tkzeph empire. In the present day of the Orion's Arm setting, the system is inhabited by another alien species known as the Ultimates.
 "54723AF6-F916-41AC-8D6A-143C9AF75515" = "The Black Acropolis is a pair of ancient Dyson swarms in a \"snailshell\" configuration, first built 312 million years ago by the vanished Tkzeph empire. In the present day of the Orion's Arm setting, the system is inhabited by another alien species known as the Ultimates.";
@@ -2634,6 +2643,9 @@
 
 // English: K2-33b is a \"hot Neptune\" exoplanet discovered by the Kepler space telescope in 2016. The planet is 456 light-years away from Earth in the constellation Scorpio. It is a very young planet, estimated to be 9.3 million years old
 "BCC4683F-FBB8-BD2A-7E2F-A6CD72A214FC" = "K2-33b is a \"hot Neptune\" exoplanet discovered by the Kepler space telescope in 2016. The planet is 456 light-years away from Earth in the constellation Scorpio. It is a very young planet, estimated to be 9.3 million years old";
+
+// English: Wray 15-811 is a hypervelocity carbon star about 10,763 light-years away in the constellation Musca
+"BCCFB094-48ED-4440-B04C-76FA4D3E49C8" = "Wray 15-811 is a hypervelocity carbon star about 10,763 light-years away in the constellation Musca";
 
 // English: A fictional Cassini-type spacecraft launched in February 21, 2019 on a 27-year mission to reach the dwarf planet Eris on 2046.  It is the seventh of eight missions as part of the Toutatis Program (2018-2047), although chronologically it was the third launched (after Toutatis-2)
 "BD17C5AB-1B76-4DAF-99C9-FA020C5C6A59" = "A fictional Cassini-type spacecraft launched in February 21, 2019 on a 27-year mission to reach the dwarf planet Eris on 2046.  It is the seventh of eight missions as part of the Toutatis Program (2018-2047), although chronologically it was the third launched (after Toutatis-2)";

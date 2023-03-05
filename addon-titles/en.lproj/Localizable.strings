@@ -28,6 +28,9 @@
 // English: Kepler-10
 "01F369EF-14D0-B83F-A8FA-313D31AF0262" = "Kepler-10";
 
+// English: Kepler-29
+"024C9CC8-8D70-47DD-910F-68EFA76368CE" = "Kepler-29";
+
 // English: PK 164+31.1 (Headphone Nebula)
 "02B1F10B-AA6D-688F-1C35-6D90223E5AC7" = "PK 164+31.1 (Headphone Nebula)";
 
@@ -522,6 +525,9 @@
 
 // English: Salyut 4
 "2787294E-0D4B-C42E-6039-720474FEF752" = "Salyut 4";
+
+// English: NGTS-16
+"27EEABDB-404C-4777-A87E-CAC6BE9D7E2A" = "NGTS-16";
 
 // English: Stars in the Andromeda Galaxy
 "280A2002-C66A-11B0-B9AE-865EC164DA2C" = "Stars in the Andromeda Galaxy";
@@ -1185,6 +1191,9 @@
 
 // English: KOI-5819
 "53F67CD7-0D8F-47E0-B216-5AA844366B12" = "KOI-5819";
+
+// English: Rho Indi
+"54599D27-ED40-444E-B0AB-F848D1E9A1F6" = "Rho Indi";
 
 // English: Black Acropolis
 "54723AF6-F916-41AC-8D6A-143C9AF75515" = "Black Acropolis";
@@ -2634,6 +2643,9 @@
 
 // English: K2-33
 "BCC4683F-FBB8-BD2A-7E2F-A6CD72A214FC" = "K2-33";
+
+// English: Wray 15-811
+"BCCFB094-48ED-4440-B04C-76FA4D3E49C8" = "Wray 15-811";
 
 // English: Toutatis-7
 "BD17C5AB-1B76-4DAF-99C9-FA020C5C6A59" = "Toutatis-7";
