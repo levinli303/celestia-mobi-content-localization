@@ -382,6 +382,9 @@
 // English: This addon adds 3D models and textures for Pluto's four smallest moons: Hydra, Nix, Kerberos and Styx based on New Horizons spacecraft data.
 "1C96B314-2B26-D39A-7122-7AB98EFDB3B0" = "This addon adds 3D models and textures for Pluto's four smallest moons: Hydra, Nix, Kerberos and Styx based on New Horizons spacecraft data.";
 
+// English: KMT-2016-BLG-1820L is a distant T-type brown dwarf about 20,417 light-years away in the constellation Sagittarius. A massive superjovian planet was discovered orbiting its companion via the microlensing method
+"1CB8F1B1-49E8-40B3-9C51-0A6B9E188EC7" = "KMT-2016-BLG-1820L is a distant T-type brown dwarf about 20,417 light-years away in the constellation Sagittarius. A massive superjovian planet was discovered orbiting its companion via the microlensing method";
+
 // English: The Great Barred Spiral Galaxy (also known as NGC 1365) is an SBb-type barred spiral galaxy about 58.8 million light-years away in the constellation Fornax. It is theorized that the Milky Way's shape when viewed face-on will resemble NGC 1365, in addition to having the same size
 "1CCD936D-21DF-AA86-179F-D9EAC36BCDC6" = "The Great Barred Spiral Galaxy (also known as NGC 1365) is an SBb-type barred spiral galaxy about 58.8 million light-years away in the constellation Fornax. It is theorized that the Milky Way's shape when viewed face-on will resemble NGC 1365, in addition to having the same size";
 
@@ -1287,6 +1290,9 @@
 
 // English: Lexx is the name of the starship that is the primary setting of a Canadian sci-fi TV series of the same name, which aired from 1997 to 2002. To visit this starship, you must travel first to the star Beta Centauri, which is about 390.6 light-years away from Earth
 "5CF9F0F4-B0A5-4136-9569-690C10564A0F" = "Lexx is the name of the starship that is the primary setting of a Canadian sci-fi TV series of the same name, which aired from 1997 to 2002. To visit this starship, you must travel first to the star Beta Centauri, which is about 390.6 light-years away from Earth";
+
+// English: TOI-1444 is a Sun-like star about 410.69 light-years away in the constellation . Two planets, a possibly molten superterran and a hot neptunian, are discovered orbiting in close proximity to their star
+"5CFA6348-46BF-45D1-9F3C-6119DCCADBC3" = "TOI-1444 is a Sun-like star about 410.69 light-years away in the constellation . Two planets, a possibly molten superterran and a hot neptunian, are discovered orbiting in close proximity to their star";
 
 // English: Kepler-38, also known as KOI-1740, is a binary star system comprising of a Sun-like star and a red dwarf star about 3,965 light-years away in the constellation Lyra. A Neptune-sized planet orbits both stars in the system, making it the fourth circumbinary planet ever discovered by the Kepler Space Telescope
 "5D1351B6-3BF4-4661-A088-1D7A4E4BC70F" = "Kepler-38, also known as KOI-1740, is a binary star system comprising of a Sun-like star and a red dwarf star about 3,965 light-years away in the constellation Lyra. A Neptune-sized planet orbits both stars in the system, making it the fourth circumbinary planet ever discovered by the Kepler Space Telescope";
