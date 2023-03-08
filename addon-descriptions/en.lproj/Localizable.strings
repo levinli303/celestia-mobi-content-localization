@@ -1765,6 +1765,9 @@
 // English: This addon adds a 3D model for Pluto's moon Charon, based on New Horizons spacecraft data.
 "7FDFE2E0-4608-45D0-B661-FFF0606B4973" = "This addon adds a 3D model for Pluto's moon Charon, based on New Horizons spacecraft data.";
 
+// English: 91 Aquarii, also known as Psi¹ Aquarii, is a triple star system consisting of two K-type stars (a giant and a main-sequence star) and a red dwarf about 149.82 light-years away in the constellation Aquarius. The largest star of the system has a massive superjovian planet that completes a 180-day orbit around it
+"802D5872-37A3-4BC3-9085-C8B9DA73929B" = "91 Aquarii, also known as Psi¹ Aquarii, is a triple star system consisting of two K-type stars (a giant and a main-sequence star) and a red dwarf about 149.82 light-years away in the constellation Aquarius. The largest star of the system has a massive superjovian planet that completes a 180-day orbit around it";
+
 // English: In the secondary red dwarf star, Gliese 783 B, there exists a gas giant planet named Surogua. Its Titan-like moon, Tagua, is home to a sapient species called Taguans, before the arrival of humans sometime in the distant future
 "80C604E4-8F46-5A32-54D7-F5C96BA3E989" = "In the secondary red dwarf star, Gliese 783 B, there exists a gas giant planet named Surogua. Its Titan-like moon, Tagua, is home to a sapient species called Taguans, before the arrival of humans sometime in the distant future";
 
@@ -3297,6 +3300,9 @@
 
 // English: 15094 Polymele is a P-type Jupiter L4 trojan asteroid approximately 21 km in diameter. It is a target of the Lucy mission with a close fly by planned to occur in September 2027. This asteroid has a rotation period of 5.9 hours and possibly a spherical shape
 "E8D07E68-8A56-9942-3453-5BEF4F41951F" = "15094 Polymele is a P-type Jupiter L4 trojan asteroid approximately 21 km in diameter. It is a target of the Lucy mission with a close fly by planned to occur in September 2027. This asteroid has a rotation period of 5.9 hours and possibly a spherical shape";
+
+// English: 41 Comae Berenices is a binary star system of a K-type giant star and a red dwarf about 379.46 light-years away in the constellation Coma Berenices. The larger component star (A) has a superjovian planet about six times more massive than Jupiter, which completes a single orbit once every 1.67 years
+"E8D83035-EF68-4E18-AB78-7EEDBFF1CDC3" = "41 Comae Berenices is a binary star system of a K-type giant star and a red dwarf about 379.46 light-years away in the constellation Coma Berenices. The larger component star (A) has a superjovian planet about six times more massive than Jupiter, which completes a single orbit once every 1.67 years";
 
 // English: C/1980 E1 (Bowell) is a non-periodic comet discovered in February 1980 by Edward L. G. Bowell. In December 1980, it passed at a distance of 0.228 AU from Jupiter, which accelerated the comet and consequently ejected it from the Solar System. It reached perihelion in March 1982, after which it will never return. Before approaching Jupiter, the comet had an orbital period of 7.1 million years.
 "E96E5A59-AEEF-8F44-66DD-DF45D12E3848" = "C/1980 E1 (Bowell) is a non-periodic comet discovered in February 1980 by Edward L. G. Bowell. In December 1980, it passed at a distance of 0.228 AU from Jupiter, which accelerated the comet and consequently ejected it from the Solar System. It reached perihelion in March 1982, after which it will never return. Before approaching Jupiter, the comet had an orbital period of 7.1 million years.";
