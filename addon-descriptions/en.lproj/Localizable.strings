@@ -28,6 +28,9 @@
 // English: Kepler-10 is a Sun-like star about 608±3 light-years away in the constellation Draco. It has two confirmed planets orbiting, with the one closest to its star is the very first rocky planet ever discovered by the Kepler Space Telescope.
 "01F369EF-14D0-B83F-A8FA-313D31AF0262" = "Kepler-10 is a Sun-like star about 608±3 light-years away in the constellation Draco. It has two confirmed planets orbiting, with the one closest to its star is the very first rocky planet ever discovered by the Kepler Space Telescope.";
 
+// English: Kepler-1746, also known as KOI-1375, is an F-type subgiant star about 3,287 light-years away in the constellation Lyra. A single neptunian planet is orbiting at a distance of 0.88 AU from its parent star
+"023BE6B8-69F3-44D1-88DC-E14968E9A467" = "Kepler-1746, also known as KOI-1375, is an F-type subgiant star about 3,287 light-years away in the constellation Lyra. A single neptunian planet is orbiting at a distance of 0.88 AU from its parent star";
+
 // English: Kepler-29, also known as KOI-738, is an Sun-like star about 2,778 light-years away in the constellation Cygnus. Two neptunian planets were discovered completing 10 and 13-day orbits respectively around this star
 "024C9CC8-8D70-47DD-910F-68EFA76368CE" = "Kepler-29, also known as KOI-738, is an Sun-like star about 2,778 light-years away in the constellation Cygnus. Two neptunian planets were discovered completing 10 and 13-day orbits respectively around this star";
 
@@ -3282,6 +3285,9 @@
 
 // English: NGC 2818 is a planetary nebula located 10,400 light-years away in the southern constellation Pyxis. It is often cited as a member of the open cluster NGC 2818A framing it, however, radial velocity differences between the planetary nebula and open cluster suggest a chance alignment. The case is an example of a superimposed pair, similar to NGC 2438 and Messier 46
 "E63C735D-4F4D-42CE-66D1-13993EB73D0D" = "NGC 2818 is a planetary nebula located 10,400 light-years away in the southern constellation Pyxis. It is often cited as a member of the open cluster NGC 2818A framing it, however, radial velocity differences between the planetary nebula and open cluster suggest a chance alignment. The case is an example of a superimposed pair, similar to NGC 2438 and Messier 46";
+
+// English: Kepler-999, also known as KOI-1886, is an F-type subgiant star about 1,806 light-years away in the constellation Cygnus. In 2016, a mini-neptune was discovered in a 6-day orbit around this star
+"E63F059D-C102-479F-AAAD-99D0C3B48DD5" = "Kepler-999, also known as KOI-1886, is an F-type subgiant star about 1,806 light-years away in the constellation Cygnus. In 2016, a mini-neptune was discovered in a 6-day orbit around this star";
 
 // English: HAT-P-3, also known as Dombay and TOI-1419, is a binary star system consisting of a K-type main-sequence star and a red dwarf about 440.6 light-years away in the constellation Ursa Major. A single Jovian planet orbits so close to the system's primary star that its year lasts for only 2.9 Earth-days
 "E6508077-3441-8CB1-C9EC-9F653494B6D2" = "HAT-P-3, also known as Dombay and TOI-1419, is a binary star system consisting of a K-type main-sequence star and a red dwarf about 440.6 light-years away in the constellation Ursa Major. A single Jovian planet orbits so close to the system's primary star that its year lasts for only 2.9 Earth-days";
