@@ -2230,6 +2230,9 @@
 // English: This addon adds a 3D model for Saturn's moon Tethys, based on data from the Cassini spacecraft.
 "9CB30279-6604-F62D-6369-1C2A0EC4773D" = "This addon adds a 3D model for Saturn's moon Tethys, based on data from the Cassini spacecraft.";
 
+// English: TOI-519 is a red dwarf star about 506.92 light-years away in the constellation Puppis. A hot subjovian planet completes a 1.26-day orbit around its star
+"9CC63573-33F8-484C-BB6C-B35A868A55F1" = "TOI-519 is a red dwarf star about 506.92 light-years away in the constellation Puppis. A hot subjovian planet completes a 1.26-day orbit around its star";
+
 // English: HAT-P-19, also known as TOI-3597, is a K-type main sequence star about 662.92 light-years away in the constellation Andromeda. A superjovian planet only 1/3 the mass of Jupiter is found in a 3.9-day orbit around its host star
 "9D05A360-90F0-4683-A40C-BD5679B2A273" = "HAT-P-19, also known as TOI-3597, is a K-type main sequence star about 662.92 light-years away in the constellation Andromeda. A superjovian planet only 1/3 the mass of Jupiter is found in a 3.9-day orbit around its host star";
 
