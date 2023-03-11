@@ -475,6 +475,9 @@
 // English: Gliese 676 is a binary star system of two red dwarf stars about 52.3 light-years away in the constellation Ara. The stellar component A has four confirmed planets (one superterran, one neptunian and two super-Jovians) discovered so far, with an additional neptunian candidate awaiting verification and confirmation
 "24226B57-F77B-4773-9F5A-4C8F225F82F2" = "Gliese 676 is a binary star system of two red dwarf stars about 52.3 light-years away in the constellation Ara. The stellar component A has four confirmed planets (one superterran, one neptunian and two super-Jovians) discovered so far, with an additional neptunian candidate awaiting verification and confirmation";
 
+// English: HD 5319, also known as BD+00 142, is a K-type subgiant star about 397.35 light-years away in the constellation Cetus. Two gas giant planets were discovered within 1.58-2.15 AU away from their host star
+"24652C04-A9C9-43D3-9A02-17040FCECA89" = "HD 5319, also known as BD+00 142, is a K-type subgiant star about 397.35 light-years away in the constellation Cetus. Two gas giant planets were discovered within 1.58-2.15 AU away from their host star";
+
 // English: Gliese 486, also known as TOI-1827, is a nearby red dwarf star only about 26.34 light-years away in the constellation Virgo. In 2021, a superterran planet was discovered via radial velocity where it is so close to its star that its surface could be covered in seas of molten rock. Both objects will receive formal names at the end of the third NameExoWorlds campaign in 2022
 "249C5647-7260-4687-B647-30EA66362D7F" = "Gliese 486, also known as TOI-1827, is a nearby red dwarf star only about 26.34 light-years away in the constellation Virgo. In 2021, a superterran planet was discovered via radial velocity where it is so close to its star that its surface could be covered in seas of molten rock. Both objects will receive formal names at the end of the third NameExoWorlds campaign in 2022";
 
@@ -3262,6 +3265,9 @@
 // English: This addon adds a 3D model for Saturn's moon Iapetus, based on data from the Cassini spacecraft.
 "E2826B02-E531-2818-4115-F7A4993D609B" = "This addon adds a 3D model for Saturn's moon Iapetus, based on data from the Cassini spacecraft.";
 
+// English: XO-3, also known as TOI-1676, is a binary star system of an F-type and a K-type main sequence stars about 699 light-years away in the constellation Camelopardalis. The larger star of the two (component A) has a massive superjovian or low-end brown dwarf that completes a 2.26-day orbit around its star
+"E2A274CD-F79D-41BA-925F-7A65D9ADA3F0" = "XO-3, also known as TOI-1676, is a binary star system of an F-type and a K-type main sequence stars about 699 light-years away in the constellation Camelopardalis. The larger star of the two (component A) has a massive superjovian or low-end brown dwarf that completes a 2.26-day orbit around its star";
+
 // English: Gliese 176 is a nearby red dwarf star only about 30.9 light-years away in the constellation Taurus. Two planets, all neptunian, were discovered orbiting this star
 "E2AA314A-B5AB-49D7-95BB-B2331698D812" = "Gliese 176 is a nearby red dwarf star only about 30.9 light-years away in the constellation Taurus. Two planets, all neptunian, were discovered orbiting this star";
 
@@ -3276,6 +3282,9 @@
 
 // English: (33342) 1998 WT24 is a near-Earth asteroid and potentially hazardous asteroid of the Aten group. It was discovered on November 25, 1998 by the LINEAR project. The 1998 WT24 orbit makes it cross the orbits of Mercury, Venus and Earth, and due to its low orbit inclination, it is capable of approaching all of these planets. This asteroid measures between 350 and 415 meters in diameter, and if it eventually collided with Earth it would cause devastation on a regional scale.
 "E50FDDEF-E97B-4015-8ED4-F1253B751A31" = "(33342) 1998 WT24 is a near-Earth asteroid and potentially hazardous asteroid of the Aten group. It was discovered on November 25, 1998 by the LINEAR project. The 1998 WT24 orbit makes it cross the orbits of Mercury, Venus and Earth, and due to its low orbit inclination, it is capable of approaching all of these planets. This asteroid measures between 350 and 415 meters in diameter, and if it eventually collided with Earth it would cause devastation on a regional scale.";
+
+// English: HD 87883 is a K-type main sequence star about 59.69 light-years away in the constellation Leo Minor. A massive superjovian planet about five times the mass of Jupiter completes a 9.06-year orbit around its star at a distance of 2.86 AU
+"E54BA4BF-C4EC-40A2-9ADD-A8EF2C6CFAF1" = "HD 87883 is a K-type main sequence star about 59.69 light-years away in the constellation Leo Minor. A massive superjovian planet about five times the mass of Jupiter completes a 9.06-year orbit around its star at a distance of 2.86 AU";
 
 // English: Adds 40 space debris objects in Earth orbits. For more information read the Readme file contained in the zip file.
 "E5BAA778-08E6-5CF4-D248-528DC8A95A45" = "Adds 40 space debris objects in Earth orbits. For more information read the Readme file contained in the zip file.";
