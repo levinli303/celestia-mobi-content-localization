@@ -1462,6 +1462,9 @@
 // English: C/2013 A1 (Siding Spring)
 //"66055788-51F5-79CC-37C8-CB374DE66845" = "C/2013 A1 (Siding Spring)";
 
+// English: Gliese 625
+//"66BB7524-33C6-459D-94A2-2C4375038AFE" = "Gliese 625";
+
 // English: Very Large Array (Simplified)
 //"670A59B6-9659-42D6-B0B2-2E795A51952A" = "Very Large Array (Simplified)";
 
@@ -1704,6 +1707,9 @@
 
 // English: 6P/d'Arrest
 //"7914CB4B-D753-EE30-5747-75CBCFBB3E50" = "6P/d'Arrest";
+
+// English: Kepler-141
+//"7924AA66-2334-4BAA-88E7-85CB83DA360B" = "Kepler-141";
 
 // English: KMT-2016-BLG-2142L
 //"792C834E-BA90-4058-A54E-835E465B1CB4" = "KMT-2016-BLG-2142L";
@@ -3349,6 +3355,9 @@
 // English: CW Leonis
 //"E7BD59D4-4781-A0FA-EA56-8BC77012B41D" = "CW Leonis";
 
+// English: GJ 3470
+//"E7BE253E-3EF2-42B2-9BA8-4E7FE36C4DEE" = "GJ 3470";
+
 // English: Mercury Topography
 //"E83FDA9D-4DE7-43B6-BF6C-9369212BF5A5" = "Mercury Topography";
 
@@ -3438,6 +3447,9 @@
 
 // English: X-Wing Fighter
 //"F095FCD9-D9D8-4FBA-B2CE-26FDD5CB0568" = "X-Wing Fighter";
+
+// English: Kepler-1442
+//"F098C618-1B2E-4EC0-BEB2-D3F3CE9E1AB6" = "Kepler-1442";
 
 // English: B-Wing Fighter
 //"F0A0688B-F771-A22E-D3A0-4D16B8D43D7C" = "B-Wing Fighter";
@@ -3540,6 +3552,9 @@
 
 // English: Earth's Auroras
 //"F8120336-675B-A499-4DE2-84C8529957CC" = "Earth's Auroras";
+
+// English: Kepler-1653
+//"F85558E6-324C-496A-AE7B-29D66AC97E6F" = "Kepler-1653";
 
 // English: Earth's History
 //"F86AC158-FD5E-409E-83A1-6FEB3120F4F8" = "Earth's History";

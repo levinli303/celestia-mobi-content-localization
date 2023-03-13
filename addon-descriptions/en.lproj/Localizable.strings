@@ -1462,6 +1462,9 @@
 // English: C/2013 A1 is an Oort Cloud comet that is notable for passing by very close to Mars on 2014-Oct-19. On that day, the comet encountered the Red Planet at a distance of 140,000 km. Its nucleus is estimated to be around 700-800 m in diameter
 "66055788-51F5-79CC-37C8-CB374DE66845" = "C/2013 A1 is an Oort Cloud comet that is notable for passing by very close to Mars on 2014-Oct-19. On that day, the comet encountered the Red Planet at a distance of 140,000 km. Its nucleus is estimated to be around 700-800 m in diameter";
 
+// English: Gliese 625 is a nearby red dwarf star only about 21.13 light-years away in the constellation Draco. A single super-venusian planet orbits this star once every 3.53 days
+"66BB7524-33C6-459D-94A2-2C4375038AFE" = "Gliese 625 is a nearby red dwarf star only about 21.13 light-years away in the constellation Draco. A single super-venusian planet orbits this star once every 3.53 days";
+
 // English: This is a simplified version of Selden's Expanded VLA addon and does not need to be installed if you already have the EVLA addon as this directly conflicts the EVLA addon via position.
 "670A59B6-9659-42D6-B0B2-2E795A51952A" = "This is a simplified version of Selden's Expanded VLA addon and does not need to be installed if you already have the EVLA addon as this directly conflicts the EVLA addon via position.";
 
@@ -1704,6 +1707,9 @@
 
 // English: 6P/d'Arrest is a periodic comet of the Jupiter family with an orbital period of 6.54 years. It was first observed by Heinrich Ludwig d'Arrest in June 1851. Comet d'Arrest was one of the targets of NASA's CONTOUR spacecraft launched in 2002, but communication with the spacecraft was lost and the mission failed.
 "7914CB4B-D753-EE30-5747-75CBCFBB3E50" = "6P/d'Arrest is a periodic comet of the Jupiter family with an orbital period of 6.54 years. It was first observed by Heinrich Ludwig d'Arrest in June 1851. Comet d'Arrest was one of the targets of NASA's CONTOUR spacecraft launched in 2002, but communication with the spacecraft was lost and the mission failed.";
+
+// English: Kepler-141, also known as KOI-338, is a K-type main sequence star about 990.93 light-years away in the constellation Cygnus. Two rocky planets, a subterran and a superterran, are both orbiting in very close proximity to their host star, which most likely resulted in their surfaces being covered in molten magma
+"7924AA66-2334-4BAA-88E7-85CB83DA360B" = "Kepler-141, also known as KOI-338, is a K-type main sequence star about 990.93 light-years away in the constellation Cygnus. Two rocky planets, a subterran and a superterran, are both orbiting in very close proximity to their host star, which most likely resulted in their surfaces being covered in molten magma";
 
 // English: KMT-2016-BLG-2142L is a distant T-type brown dwarf about 22,864 light-years away in the constellation Sagittarius. It is accompanied by a massive superjovian planet or another low-end brown dwarf at a distance of 0.8 AU, which was spotted through microlensing
 "792C834E-BA90-4058-A54E-835E465B1CB4" = "KMT-2016-BLG-2142L is a distant T-type brown dwarf about 22,864 light-years away in the constellation Sagittarius. It is accompanied by a massive superjovian planet or another low-end brown dwarf at a distance of 0.8 AU, which was spotted through microlensing";
@@ -3349,6 +3355,9 @@
 // English: CW Leonis is a well-studied carbon star about 309 light-years away in the constellation Leo. It is embedded in a thick envelope of gas which indicates that the dying red giant is slowly turning into a white dwarf in the near future, doing so in the last 69,000 years
 "E7BD59D4-4781-A0FA-EA56-8BC77012B41D" = "CW Leonis is a well-studied carbon star about 309 light-years away in the constellation Leo. It is embedded in a thick envelope of gas which indicates that the dying red giant is slowly turning into a white dwarf in the near future, doing so in the last 69,000 years";
 
+// English: GJ 3470 is a red dwarf star about light-years away in the constellation Cancer. A single planet the size of Neptune where it completes a 3.05-day orbit at a distance of 5.2 million km from its star. Both objects will receive formal names upon the completion of the third NameExoWorlds campaign in 2023
+"E7BE253E-3EF2-42B2-9BA8-4E7FE36C4DEE" = "GJ 3470 is a red dwarf star about light-years away in the constellation Cancer. A single planet the size of Neptune where it completes a 3.05-day orbit at a distance of 5.2 million km from its star. Both objects will receive formal names upon the completion of the third NameExoWorlds campaign in 2023";
+
 // English: This addon adds, as an alternative surface, a topographic map for the planet Mercury.
 "E83FDA9D-4DE7-43B6-BF6C-9369212BF5A5" = "This addon adds, as an alternative surface, a topographic map for the planet Mercury.";
 
@@ -3438,6 +3447,9 @@
 
 // English: The X-Wing Fighter is placed into orbit around the first Death Star from the Tatooine, Endor and Death Star add-on.\nNOTE: This add-on requires the Tatooine, Endor and Death Star add-on!
 "F095FCD9-D9D8-4FBA-B2CE-26FDD5CB0568" = "The X-Wing Fighter is placed into orbit around the first Death Star from the Tatooine, Endor and Death Star add-on.\nNOTE: This add-on requires the Tatooine, Endor and Death Star add-on!";
+
+// English: Kepler-1442, also known as KOI-3220, is an F-type main sequence star about 2,020 light-years away in the constellation Cygnus. A single neptunian planet is orbiting at a distance of 0.37 AU from its parent star, where in 2020 was speculated to harbor a superterran-mass satellite, but since deemed unlikely to exist according to follow-up studies
+"F098C618-1B2E-4EC0-BEB2-D3F3CE9E1AB6" = "Kepler-1442, also known as KOI-3220, is an F-type main sequence star about 2,020 light-years away in the constellation Cygnus. A single neptunian planet is orbiting at a distance of 0.37 AU from its parent star, where in 2020 was speculated to harbor a superterran-mass satellite, but since deemed unlikely to exist according to follow-up studies";
 
 // English: A B-Wing Fighter. NOTE: This add-on requires the Tatooine, Endor and Death Star add-on!
 "F0A0688B-F771-A22E-D3A0-4D16B8D43D7C" = "A B-Wing Fighter. NOTE: This add-on requires the Tatooine, Endor and Death Star add-on!";
@@ -3540,6 +3552,9 @@
 
 // English: This addon adds Earth's polar auroras.
 "F8120336-675B-A499-4DE2-84C8529957CC" = "This addon adds Earth's polar auroras.";
+
+// English: Kepler-1653, also known as KOI-4550, is a K-type main sequence star about 2,462 light-years away in the constellation Cygnus. A superterran (or a neptunian) planet about 58% larger than Earth is currently included in the optimistic list of the Potentially Habitable Catalog as of 2022
+"F85558E6-324C-496A-AE7B-29D66AC97E6F" = "Kepler-1653, also known as KOI-4550, is a K-type main sequence star about 2,462 light-years away in the constellation Cygnus. A superterran (or a neptunian) planet about 58% larger than Earth is currently included in the optimistic list of the Potentially Habitable Catalog as of 2022";
 
 // English: An addon that brings a spectacular view of the history of our planet Earth, from 4.5 billion to 20 million years in the past. This addon adds 46 alternate surfaces for Earth, showing what our planet might have looked like at different times.
 "F86AC158-FD5E-409E-83A1-6FEB3120F4F8" = "An addon that brings a spectacular view of the history of our planet Earth, from 4.5 billion to 20 million years in the past. This addon adds 46 alternate surfaces for Earth, showing what our planet might have looked like at different times.";
