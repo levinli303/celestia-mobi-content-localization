@@ -2140,6 +2140,9 @@
 // English: WASP-41
 //"95621A22-89FF-4A48-BD35-538B4441435A" = "WASP-41";
 
+// English: K2-34
+//"958AE251-E2A8-4C43-8C37-46B073441509" = "K2-34";
+
 // English: Kepler-86
 //"95AEED68-FC7A-405A-9BBB-7BC5ADD08F5E" = "Kepler-86";
 
@@ -3196,6 +3199,9 @@
 // English: Polar Operational Environmental Satellite
 //"DC9A4080-3BDD-4A88-93CC-FDB70DE52826" = "Polar Operational Environmental Satellite";
 
+// English: WASP-79
+//"DC9B3831-0253-4741-A57B-34D288B060A5" = "WASP-79";
+
 // English: 99942 Apophis (by Greg Frieger)
 //"DCA8E002-A134-47F4-AB1D-EECB20114268" = "99942 Apophis (by Greg Frieger)";
 
@@ -3264,6 +3270,9 @@
 
 // English: CoRoT-8
 //"DF8784A5-9B40-4A0B-ACAD-28C5F0828DA7" = "CoRoT-8";
+
+// English: Kepler-390
+//"DFB86028-9AA7-48E7-898C-3DB007D19BE1" = "Kepler-390";
 
 // English: NGC 6751 (Glowing Eye Nebula)
 //"E00CE50E-627E-88CD-751B-FE47058DB8DA" = "NGC 6751 (Glowing Eye Nebula)";
@@ -3522,6 +3531,9 @@
 
 // English: LX Serpentis
 //"F44774BD-CA28-9FB9-9788-3927FA4478D4" = "LX Serpentis";
+
+// English: HAT-P-9
+//"F4BB73EE-45F7-45F1-BF16-A71B963A044E" = "HAT-P-9";
 
 // English: Helios 1 and 2
 //"F4DB14FD-5AF0-64BB-747F-096B44C3D60E" = "Helios 1 and 2";
