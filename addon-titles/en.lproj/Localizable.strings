@@ -313,6 +313,9 @@
 // English: Avatar (2009)
 "17A0D3BB-E22B-F82B-320C-1BC986E3D676" = "Avatar (2009)";
 
+// English: Shenzhou 7
+"1868A723-985D-467F-99A9-90DD992A31C5" = "Shenzhou 7";
+
 // English: Passengers (2016)
 "186B0D65-7BC3-BBCD-BB72-58C07BE4C292" = "Passengers (2016)";
 
@@ -3222,6 +3225,9 @@
 
 // English: 70 Virginis
 "DEEDE7E5-DB2C-BECA-9C88-9CBDA5F814D6" = "70 Virginis";
+
+// English: HTV
+"DEEDF629-A314-4AD6-BB64-41730358B263" = "HTV";
 
 // English: Sentinel-6A
 "DF282F80-91AD-9087-85B1-265D3A84898D" = "Sentinel-6A";
